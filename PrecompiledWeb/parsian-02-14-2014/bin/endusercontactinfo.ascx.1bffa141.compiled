@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/EndUserContactInfo.ascx" hash="5bf7dff5c" filehash="d0135261ebd6279a" flags="100000" assembly="App_Web_qqmzcsof" type="ASP.admin_modules_endusercontactinfo_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/EmailTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/EmailTextBox.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/EndUserContactInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUserContactInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/PersianCalendar.ascx" />
+        <filedep name="/Web/Admin/Modules/PersianCalendar.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx.cs" />
+    </filedeps>
+</preserve>

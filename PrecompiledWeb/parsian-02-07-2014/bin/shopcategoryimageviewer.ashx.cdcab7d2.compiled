@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Web/ShopCategoryImageViewer.ashx" hash="ffffffffd3f34de9" filehash="ffffbd2ddeaffa59" flags="110000" assembly="App_Web_yal5d0ij" type="ShopCategoryImageViewer">
+    <filedeps>
+        <filedep name="/Web/ShopCategoryImageViewer.ashx" />
+    </filedeps>
+</preserve>

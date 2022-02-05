@@ -1,0 +1,235 @@
+﻿body {
+	margin: 0px;	
+	font-family:Tahoma;
+	font-size:9pt;
+	background: #000000 url('') top left;
+	
+	
+}
+
+table.linkcontainer {
+
+	filter:alpha(opacity=70);
+	-moz-opacity: .7;
+	height:51px;
+
+}
+
+td.logo_area
+{
+text-align:center;
+width:1208;
+height:200;
+}
+td.middle_spacer {
+	width: 800px;
+	background-color:#000000;
+	filter:alpha(opacity=70);
+	-moz-opacity: .7;
+}
+td.shadow_right {
+	background-image: url(Images/border_shadow_r.png);
+	background-repeat: repeat-y;
+	background-position: left;
+	filter:alpha(opacity=40);
+	-moz-opacity: .4;
+}
+td.shadow_left {
+	background-image: url(Images/border_shadow_l.png);
+	background-repeat: repeat-y;
+	background-position: right;
+	filter:alpha(opacity=40);
+
+	-moz-opacity: .4;
+}
+td.body_content {
+	padding: 5px;
+	background-image: url(Images/bg_content.jpg);
+	background-repeat: repeat;
+}
+td.below_header
+{
+	background-color: #000000; /*height: 50px;*/
+	padding:0px 5px 5px 5px ;
+	height:0px;
+	filter:alpha(opacity=70);
+	-moz-opacity: .7;
+	font-size:9pt;
+	text-align:center;
+	clear:both;
+	color:White;
+	/*background-image:url(Images/below_header_bg.jpg);*/
+
+}
+td.main_content_box {
+	background-color: #FFFFFF;
+}
+
+td.horizontal_column {
+	background-color: #ffffff;
+	border-top-width: 10px;
+	border-right-width: 0px;
+	border-bottom-width: 10px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #000000;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+	border-left-color: #000000;
+	height: 80px;
+	display: table-cell;
+	vertical-align: top;
+	filter:alpha(opacity=20);
+	-moz-opacity: .2;
+	
+}
+div.bottom
+{
+	background-color: #000000;
+	width:1208;
+	height:31px;
+	font-weight:normal;
+	background-image: url('Images/foot-nav.png');
+}
+div.bottom_link_container {
+	background-color: #000000;
+	text-align: -moz-center;	
+	color: #FFFFFF;
+	padding: 5px;
+	font-size:9pt;
+	font-weight:normal;
+}
+
+td.horizontal_center {
+	background-color: #000000;
+	height: 94px;
+	width:1208px;
+	background-image: url('Images/bg-nav.png');
+
+}
+td.header_column 
+{
+	height: 100%;
+	vertical-align: middle;
+	color: #FFFFFF;
+	font-size: 1em;
+	background-image: url(Images/header2_bg.jpg);
+	background-position: top;
+}
+td.Right_content {
+	width: 0px;
+	padding: 0px;
+	border-left:1px solid gray;
+	vertical-align: top;
+	background-image: url(Images/bg_content.jpg);
+	background-repeat: repeat;
+}
+
+a.main_link:active,a.main_link:visited,a.main_link:link
+{
+	
+	text-decoration: none;
+	display: block;
+	width: 100%;
+	color: #FFFFFF;
+
+	line-height: 50px;
+}
+a.main_link:hover{
+	background-color:#333333;
+	color: #FFFFFF;
+}
+a.bottom_link:active,a.bottom_link:visited,a.bottom_link:link{
+
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a.bottom_link:hover{
+	color: #CCCCCC;
+}
+div.bottom_content
+{
+	
+	color: #FFFFFF;
+	padding: 5px;
+}
+div.navigation {
+	height: 50px;
+	width:100px;
+	vertical-align: middle;
+	text-align: center;
+	font-weight:bold;
+	font-size:large;
+
+}
+/*---------------------------------------------*/
+.below_header
+{
+	
+	padding: 0 0 5px 0;
+	text-align:center;
+	clear:both;
+	color:White;
+}
+.content-title
+{
+	
+	padding: 5px 10px 5px 0;	
+	clear:both;
+	color: #555;
+	text-align:right;
+	font-size:10pt;
+}
+.content-body
+{
+	font-size:small;
+	
+	font-weight:bold;
+	clear:both;
+	text-align:right;
+	
+}
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+	TABLES
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+table.DefaultContent
+{
+	border-collapse: collapse;
+	color: #333;
+	margin: 0px;
+	width: 100%;
+	vertical-align: middle;
+	text-align: center;
+	
+}
+table.DefaultContent td
+{
+	padding: 5px 5px 5px 5px;
+	text-align: right	;
+	vertical-align: middle;
+	
+}
+
+table.DefaultContent td img
+{
+	vertical-align: middle;
+	padding-right: 2px;
+}
+td.DefaultTitle
+{
+	text-align: right;
+	vertical-align: middle;
+	width:25%;
+	
+}
+td.DefaultData
+{
+	text-align: right	;
+	vertical-align: middle;
+	width:75%;
+}

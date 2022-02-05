@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/DecimalTextBox.ascx" hash="5bf7dff5c" filehash="fb8a887f5fdc64fe" flags="100000" assembly="App_Web_ub4nezah" type="ASP.admin_modules_decimaltextbox_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/DecimalTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/DecimalTextBox.ascx.cs" />
+    </filedeps>
+</preserve>

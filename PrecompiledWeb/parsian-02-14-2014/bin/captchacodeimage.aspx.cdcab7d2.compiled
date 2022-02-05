@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/CaptchaCodeImage.aspx" hash="581ae6859" filehash="27a83b8f3415c8e7" flags="100000" assembly="App_Web_cxyby1a0" type="ASP.captchacodeimage_aspx">
+    <filedeps>
+        <filedep name="/Web/CaptchaCodeImage.aspx" />
+        <filedep name="/Web/CaptchaCodeImage.aspx.cs" />
+    </filedeps>
+</preserve>

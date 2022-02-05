@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/ShopRating.ascx" hash="5bf7dff5c" filehash="fb8f1c6ff867acae" flags="100000" assembly="App_Web_ub4nezah" type="ASP.admin_modules_shoprating_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/ShopRating.ascx" />
+        <filedep name="/Web/Admin/Modules/ShopRating.ascx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/ProductDetails.ascx" hash="5bf7dff5c" filehash="d0dec460b8b78c3" flags="100000" assembly="App_Web_ix4o0z2h" type="ASP.admin_modules_productdetails_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/DecimalTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/DecimalTextBox.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/ProductAdd.ascx" />
+        <filedep name="/Web/Admin/Modules/ProductAdd.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/ProductDetails.ascx" />
+        <filedep name="/Web/Admin/Modules/ProductDetails.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/ProductInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/ProductInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx.cs" />
+    </filedeps>
+</preserve>

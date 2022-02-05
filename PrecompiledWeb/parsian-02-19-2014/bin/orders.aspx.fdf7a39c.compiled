@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Orders.aspx" hash="36117edd1" filehash="19d53bd1e126be3f" flags="100000" assembly="App_Web_iqzmnwpy" type="ASP.admin_orders_aspx">
+    <filedeps>
+        <filedep name="/Web/Admin/AdminMasterPage.master" />
+        <filedep name="/Web/Admin/AdminMasterPage.master.cs" />
+        <filedep name="/Web/Admin/Modules/Orders.ascx" />
+        <filedep name="/Web/Admin/Modules/Orders.ascx.cs" />
+        <filedep name="/Web/Admin/Orders.aspx" />
+        <filedep name="/Web/Admin/Orders.aspx.cs" />
+        <filedep name="/Web/Modules/EndUserLoginView.ascx" />
+        <filedep name="/Web/Modules/EndUserLoginView.ascx.cs" />
+    </filedeps>
+</preserve>

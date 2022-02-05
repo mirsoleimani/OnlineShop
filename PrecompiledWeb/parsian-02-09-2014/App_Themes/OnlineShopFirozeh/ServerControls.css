@@ -1,0 +1,176 @@
+﻿
+.textbox
+{
+	vertical-align:middle;
+	padding-right:2px;
+	border: 1px solid #000000;
+	background-color: #e3e3e3; 
+	font-size:10pt;
+	font-family: Tahoma;
+	width:150px;
+	text-align:right;
+	margin-bottom:0px;
+	direction:rtl;
+	
+	
+}
+.QuickTextBox
+{
+	vertical-align:middle;
+	padding-right:2px;
+	background-color: #e3e3e3; 
+	
+	width:150px;
+	text-align:right;
+	font-family:Tahoma;
+	margin-bottom:0px;
+	border-style:none;
+	direction:rtl;
+}
+.searchtextbox
+{
+	vertical-align:middle;
+	padding-right:2px;
+	border: 1px solid #000000;
+	background-color: #e3e3e3; 
+	font-size:10pt; 
+	font-family: Tahoma;
+	width:200px;
+	text-align:right;	
+	direction:rtl;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+	BUTTON CONTROLS
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+.button
+{
+	border: 1px outset #333;	
+	background: url(Images/grey_button_bg.gif) no-repeat 25% 50% #333;
+	font-size:10pt;
+	font-family: Tahoma;
+	color: #FFFFFF;		
+	vertical-align:middle;
+	padding: 0 5px 0px 5px;
+	text-align:center;
+	margin-bottom: 5px;
+	
+	
+}
+.searchButton
+{
+	border: 1px outset #333;	
+	background: url(Images/grey_button_bg.gif) no-repeat 25% 50% #333;
+	font-size:medium;
+	font-weight: bold; 
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;	
+	height: 25pt;
+	vertical-align:top;
+	padding: 0 10px 0 10px;
+	text-align:center;
+	
+	}
+	
+.login
+{
+	text-align:right;	
+	float:right;
+	width:100%;
+	background-color:White;
+}
+.loginLeft
+{
+	width:100%;
+	background: url(Images/LoginBackground.jpg) no-repeat left ;
+	background-color:White;
+}
+.loginView
+{
+	border:1px solid silver; 
+	width:200px;
+	height:143px;	
+	margin: 10px 0px 10px 0px;
+	background: url(Images/loginViewBackground.jpg) no-repeat ;
+	background-color:White;
+}
+.loginViewTitle
+{
+	text-align:center;
+	height:100px;
+	
+	font-size:large;
+	font-weight:bold;
+	color: #555;
+
+}
+
+.loginViewContent
+{
+	text-align:center;
+	font-size:medium;	
+	color: #555;
+}
+
+/*--------------------------------------------
+ 
+				Accordion 
+
+--------------------------------------------*/
+.accordionHeader
+{
+    border: 1px solid #2F4F4F;
+    text-align:center;
+    color: Black;
+    background-color: #cccccc;
+    padding: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+ 
+#master_content .accordionHeader a
+{
+      color: #FFFFFF;
+      background: none;
+      text-decoration: none;
+}
+ 
+#master_content .accordionHeader a:hover
+{
+      background: none;
+      text-decoration: underline;
+}
+ 
+.accordionHeaderSelected
+{
+    border: 1px solid #2F4F4F;
+    color: white;
+    background-color: white;
+    padding: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+ 
+#master_content .accordionHeaderSelected a
+{
+      color: #FFFFFF;
+      background: none;
+      text-decoration: none;
+}
+ 
+#master_content .accordionHeaderSelected a:hover
+{
+      background: none;
+      text-decoration: underline;
+}
+ 
+.accordionContent
+{
+    background-color: white;
+    border: 1px dashed #2F4F4F;
+    border-top: none;
+    padding: 5px;
+    padding-top: 10px;
+}

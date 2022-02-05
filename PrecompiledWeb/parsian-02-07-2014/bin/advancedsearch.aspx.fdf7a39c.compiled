@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/AdvancedSearch.aspx" hash="5bf7dff5c" filehash="c750ed58421f0e8b" flags="100000" assembly="App_Web_hht00ez3" type="ASP.admin_advancedsearch_aspx">
+    <filedeps>
+        <filedep name="/Web/Admin/AdminMasterPage.master" />
+        <filedep name="/Web/Admin/AdminMasterPage.master.cs" />
+        <filedep name="/Web/Admin/AdvancedSearch.aspx" />
+        <filedep name="/Web/Admin/AdvancedSearch.aspx.cs" />
+        <filedep name="/Web/Admin/Modules/AdvancedSearch.ascx" />
+        <filedep name="/Web/Admin/Modules/AdvancedSearch.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/AdvancedSearchByRegistrar.ascx" />
+        <filedep name="/Web/Admin/Modules/AdvancedSearchByRegistrar.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/AdvancedSearchContactInfoByCategoryID.ascx" />
+        <filedep name="/Web/Admin/Modules/AdvancedSearchContactInfoByCategoryID.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/AvancedSearchAddressInfoByCategoryID.ascx" />
+        <filedep name="/Web/Admin/Modules/AvancedSearchAddressInfoByCategoryID.ascx.cs" />
+        <filedep name="/Web/Modules/EndUserLoginView.ascx" />
+        <filedep name="/Web/Modules/EndUserLoginView.ascx.cs" />
+    </filedeps>
+</preserve>

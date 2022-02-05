@@ -1,0 +1,61 @@
+﻿.search .ajax__tab_header
+{
+	font-family: Tahoma;
+
+	font-size: 0.8em;
+
+	display: block;
+}
+
+.search .ajax__tab_header .ajax__tab_outer
+{
+	
+	border-color: #222;
+	
+	color: White;
+	padding-left: 10px;
+	margin-right: 3px;
+}
+
+.search .ajax__tab_header .ajax__tab_inner
+{
+	
+	border-color: #666;
+	color:White;
+	padding: 3px 10px 2px 0px;
+}
+
+.search .ajax__tab_hover .ajax__tab_inner
+{
+	color: #000;
+}
+.search .ajax__tab_hover .ajax__tab_outer
+{
+	color: #000;
+
+}
+
+.search .ajax__tab_active .ajax__tab_outer
+{
+	
+	border-bottom-color: #ffffff;
+	border-bottom:solid 1px yellow;
+}
+
+.search .ajax__tab_active .ajax__tab_inner
+{
+	
+	color: Yellow;
+	border-color: #333;
+}
+
+.search .ajax__tab_body
+{
+}
+
+.Message
+{
+    text-align:center;
+    color:Red;
+    font-size:10pt;
+}

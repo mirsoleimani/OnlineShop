@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="OnlineShop">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\SAM\Desktop\OnlineShop\OnlineShop.sln">
+</Property><Property Name="Date" Value="Tuesday, February 04, 2014">
+</Property><Property Name="Time" Value="22:03 PM">
+</Property></Properties><Event ErrorLevel="0" Project="OnlineShop.BusinessLogic" Source="ClassLibraries\OnlineShop.BusinessLogic\OnlineShop.BusinessLogic.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="OnlineShop.BusinessLogic" Source="ClassLibraries\OnlineShop.BusinessLogic\OnlineShop.BusinessLogic.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="OnlineShop.Common" Source="ClassLibraries\OnlineShop.Common\OnlineShop.Common.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="OnlineShop.Common" Source="ClassLibraries\OnlineShop.Common\OnlineShop.Common.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="OnlineShop.DataAccess" Source="ClassLibraries\OnlineShop.DataAccess\OnlineShop.DataAccess.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="OnlineShop.DataAccess" Source="ClassLibraries\OnlineShop.DataAccess\OnlineShop.DataAccess.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="OnlineShop.Operational" Source="ClassLibraries\OnlineShop.Operational\OnlineShop.Operational.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="OnlineShop.Operational" Source="ClassLibraries\OnlineShop.Operational\OnlineShop.Operational.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="OnlineShop.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="OnlineShop.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="OnlineShop.BusinessLogic" Source="ClassLibraries\OnlineShop.BusinessLogic\app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="OnlineShop.BusinessLogic" Source="ClassLibraries\OnlineShop.BusinessLogic\app.config" Description="Converted">
+</Event><Event ErrorLevel="0" Project="OnlineShop.Common" Source="ClassLibraries\OnlineShop.Common\app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="OnlineShop.Common" Source="ClassLibraries\OnlineShop.Common\app.config" Description="Converted">
+</Event><Event ErrorLevel="0" Project="OnlineShop.DataAccess" Source="ClassLibraries\OnlineShop.DataAccess\app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="OnlineShop.DataAccess" Source="ClassLibraries\OnlineShop.DataAccess\app.config" Description="Converted">
+</Event><Event ErrorLevel="0" Project="OnlineShop.Operational" Source="ClassLibraries\OnlineShop.Operational\app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="OnlineShop.Operational" Source="ClassLibraries\OnlineShop.Operational\app.config" Description="Converted">
+</Event></UpgradeLog>

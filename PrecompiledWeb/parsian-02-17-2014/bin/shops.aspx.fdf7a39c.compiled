@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Shops.aspx" hash="5bf7dff5c" filehash="aff0d7b82507c852" flags="100000" assembly="App_Web_w0zlavq5" type="ASP.admin_shops_aspx">
+    <filedeps>
+        <filedep name="/Web/Admin/AdminMasterPage.master" />
+        <filedep name="/Web/Admin/AdminMasterPage.master.cs" />
+        <filedep name="/Web/Admin/Modules/Shops.ascx" />
+        <filedep name="/Web/Admin/Modules/Shops.ascx.cs" />
+        <filedep name="/Web/Admin/Shops.aspx" />
+        <filedep name="/Web/Admin/Shops.aspx.cs" />
+        <filedep name="/Web/Modules/EndUserLoginView.ascx" />
+        <filedep name="/Web/Modules/EndUserLoginView.ascx.cs" />
+    </filedeps>
+</preserve>

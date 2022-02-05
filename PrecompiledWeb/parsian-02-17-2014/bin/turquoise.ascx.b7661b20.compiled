@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Modules/Turquoise.ascx" hash="581ae6859" filehash="d24cb1bee9b90c43" flags="100000" assembly="App_Web_icjgfrxr" type="ASP.modules_turquoise_ascx">
+    <filedeps>
+        <filedep name="/Web/Modules/Turquoise.ascx" />
+        <filedep name="/Web/Modules/Turquoise.ascx.cs" />
+    </filedeps>
+</preserve>

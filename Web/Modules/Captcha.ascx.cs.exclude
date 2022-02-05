@@ -1,0 +1,41 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using OnlineShop.Operational;
+
+public partial class Modules_Captcha : System.Web.UI.UserControl
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (!IsPostBack)
+            RegenerateCaptchaCode();
+    }
+
+    private void RegenerateCaptchaCode()
+    {
+        this.Session["CaptchaCode"] = Utilities.GenerateRandomCaptchaCode(6);
+    }
+
+    private bool ValidateCaptchaCode()
+    {
+        if(string.IsNullOrEmpty(txtCaptchaCode.Text))
+            return false;
+        if(this.Session["CaptchaCode"] == null)
+            return false;
+        if(this.Session["CaptchaCode"].ToString() == txtCaptchaCode.Text)
+        {
+            return true;
+        }
+        else
+        {
+            this.lblerrorMessage = "کد وارد شده صحیح نیست";
+            this.txtCaptchaCode.Text = "";
+            this.RegenerateCaptchaCode();
+            return false;
+        }
+
+    }
+}

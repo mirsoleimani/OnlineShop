@@ -1,0 +1,6 @@
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Release\OnlineShop.Operational.dll.config
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Release\OnlineShop.Operational.dll
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Release\OnlineShop.Operational.pdb
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Release\OnlineShop.Operational.dll
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Release\OnlineShop.Operational.pdb

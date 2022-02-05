@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/AdvancedSearch.ascx" hash="5bf7dff5c" filehash="a99090b8c3ca51d1" flags="100000" assembly="App_Web_xtrw1yuz" type="ASP.admin_modules_advancedsearch_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/AdvancedSearch.ascx" />
+        <filedep name="/Web/Admin/Modules/AdvancedSearch.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/AdvancedSearchByRegistrar.ascx" />
+        <filedep name="/Web/Admin/Modules/AdvancedSearchByRegistrar.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/AdvancedSearchContactInfoByCategoryID.ascx" />
+        <filedep name="/Web/Admin/Modules/AdvancedSearchContactInfoByCategoryID.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/AvancedSearchAddressInfoByCategoryID.ascx" />
+        <filedep name="/Web/Admin/Modules/AvancedSearchAddressInfoByCategoryID.ascx.cs" />
+    </filedeps>
+</preserve>

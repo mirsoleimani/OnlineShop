@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Modules/Guide.ascx" hash="581ae6859" filehash="74c2e9650da80162" flags="100000" assembly="App_Web_d3paaozg" type="ASP.modules_guide_ascx">
+    <filedeps>
+        <filedep name="/Web/Modules/Guide.ascx" />
+        <filedep name="/Web/Modules/Guide.ascx.cs" />
+    </filedeps>
+</preserve>

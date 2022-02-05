@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/ShopCategoryMap.ascx" hash="5bf7dff5c" filehash="3e8a6327eefd395d" flags="100000" assembly="App_Web_dy1taqal" type="ASP.admin_modules_shopcategorymap_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/ShopCategoryMap.ascx" />
+        <filedep name="/Web/Admin/Modules/ShopCategoryMap.ascx.cs" />
+    </filedeps>
+</preserve>

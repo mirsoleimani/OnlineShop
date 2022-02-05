@@ -1,0 +1,94 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClassLibraries", "ClassLibraries", "{5D43D460-2D95-4D75-8DA5-4A8396995DED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{14397725-CDAE-4591-A652-332080E2DB72}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dependencies", "Dependencies", "{1E5F323B-26AE-4CCD-AD83-6283218995D6}"
+	ProjectSection(SolutionItems) = preProject
+		Dependencies\FarsiLibrary.Resources.dll = Dependencies\FarsiLibrary.Resources.dll
+		Dependencies\FarsiLibrary.Utils.dll = Dependencies\FarsiLibrary.Utils.dll
+		Dependencies\FarsiLibrary.Win.dll = Dependencies\FarsiLibrary.Win.dll
+		Dependencies\FredCK.FCKeditorV2.dll = Dependencies\FredCK.FCKeditorV2.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop.BusinessLogic", "ClassLibraries\OnlineShop.BusinessLogic\OnlineShop.BusinessLogic.csproj", "{86784AB5-CE4D-4F4A-8AA7-44970EBFA03D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop.Common", "ClassLibraries\OnlineShop.Common\OnlineShop.Common.csproj", "{E166BF7A-4594-4475-9076-077B8172CF71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop.DataAccess", "ClassLibraries\OnlineShop.DataAccess\OnlineShop.DataAccess.csproj", "{9022F750-3635-490B-AE53-F82E0858A442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop.Operational", "ClassLibraries\OnlineShop.Operational\OnlineShop.Operational.csproj", "{AE0B4DBC-51CD-4069-8E60-3DEBCBF52FCB}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Web", "Web\", "{C4017ED0-8C8B-4F4C-9917-AD2DE22B8961}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{86784AB5-CE4D-4F4A-8AA7-44970EBFA03D}|OnlineShop.BusinessLogic.dll;{E166BF7A-4594-4475-9076-077B8172CF71}|OnlineShop.Common.dll;{9022F750-3635-490B-AE53-F82E0858A442}|OnlineShop.DataAccess.dll;{AE0B4DBC-51CD-4069-8E60-3DEBCBF52FCB}|OnlineShop.Operational.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/Web"
+		Debug.AspNetCompiler.PhysicalPath = "Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Web\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.KeyFile = "KatajKey.snk"
+		Debug.AspNetCompiler.DelaySign = "false"
+		Debug.AspNetCompiler.AllowPartiallyTrustedCallers = "false"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Web"
+		Release.AspNetCompiler.PhysicalPath = "Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Web\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.KeyFile = "KatajKey.snk"
+		Release.AspNetCompiler.DelaySign = "false"
+		Release.AspNetCompiler.AllowPartiallyTrustedCallers = "false"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1980"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{9022F750-3635-490B-AE53-F82E0858A442} = {9022F750-3635-490B-AE53-F82E0858A442}
+		{E166BF7A-4594-4475-9076-077B8172CF71} = {E166BF7A-4594-4475-9076-077B8172CF71}
+		{86784AB5-CE4D-4F4A-8AA7-44970EBFA03D} = {86784AB5-CE4D-4F4A-8AA7-44970EBFA03D}
+		{AE0B4DBC-51CD-4069-8E60-3DEBCBF52FCB} = {AE0B4DBC-51CD-4069-8E60-3DEBCBF52FCB}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86784AB5-CE4D-4F4A-8AA7-44970EBFA03D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86784AB5-CE4D-4F4A-8AA7-44970EBFA03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86784AB5-CE4D-4F4A-8AA7-44970EBFA03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86784AB5-CE4D-4F4A-8AA7-44970EBFA03D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E166BF7A-4594-4475-9076-077B8172CF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E166BF7A-4594-4475-9076-077B8172CF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E166BF7A-4594-4475-9076-077B8172CF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E166BF7A-4594-4475-9076-077B8172CF71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9022F750-3635-490B-AE53-F82E0858A442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9022F750-3635-490B-AE53-F82E0858A442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9022F750-3635-490B-AE53-F82E0858A442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9022F750-3635-490B-AE53-F82E0858A442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE0B4DBC-51CD-4069-8E60-3DEBCBF52FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE0B4DBC-51CD-4069-8E60-3DEBCBF52FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE0B4DBC-51CD-4069-8E60-3DEBCBF52FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE0B4DBC-51CD-4069-8E60-3DEBCBF52FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4017ED0-8C8B-4F4C-9917-AD2DE22B8961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4017ED0-8C8B-4F4C-9917-AD2DE22B8961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4017ED0-8C8B-4F4C-9917-AD2DE22B8961}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4017ED0-8C8B-4F4C-9917-AD2DE22B8961}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{86784AB5-CE4D-4F4A-8AA7-44970EBFA03D} = {5D43D460-2D95-4D75-8DA5-4A8396995DED}
+		{E166BF7A-4594-4475-9076-077B8172CF71} = {5D43D460-2D95-4D75-8DA5-4A8396995DED}
+		{9022F750-3635-490B-AE53-F82E0858A442} = {5D43D460-2D95-4D75-8DA5-4A8396995DED}
+		{AE0B4DBC-51CD-4069-8E60-3DEBCBF52FCB} = {5D43D460-2D95-4D75-8DA5-4A8396995DED}
+		{C4017ED0-8C8B-4F4C-9917-AD2DE22B8961} = {14397725-CDAE-4591-A652-332080E2DB72}
+	EndGlobalSection
+EndGlobal

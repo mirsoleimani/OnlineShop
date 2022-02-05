@@ -1,0 +1,70 @@
+C:\Documents and Settings\S.Ali mirsoleimani\My Documents\Visual Studio 2008\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.BusinessLogic.dll
+C:\Documents and Settings\S.Ali mirsoleimani\My Documents\Visual Studio 2008\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.BusinessLogic.pdb
+C:\Documents and Settings\S.Ali mirsoleimani\My Documents\Visual Studio 2008\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\S.Ali mirsoleimani\My Documents\Visual Studio 2008\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Debug\OnlineShop.BusinessLogic.dll
+C:\Documents and Settings\S.Ali mirsoleimani\My Documents\Visual Studio 2008\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Debug\OnlineShop.BusinessLogic.pdb
+C:\Documents and Settings\S.Ali mirsoleimani\My Documents\Visual Studio 2008\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.BusinessLogic.dll.config
+C:\Documents and Settings\S.Ali mirsoleimani\My Documents\Visual Studio 2008\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.Common.dll
+C:\Documents and Settings\S.Ali mirsoleimani\My Documents\Visual Studio 2008\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.DataAccess.dll
+C:\Documents and Settings\S.Ali mirsoleimani\My Documents\Visual Studio 2008\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.Common.pdb
+C:\Documents and Settings\S.Ali mirsoleimani\My Documents\Visual Studio 2008\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.DataAccess.pdb
+D:\MyJob\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+D:\MyJob\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Debug\OnlineShop.BusinessLogic.dll
+D:\MyJob\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Debug\OnlineShop.BusinessLogic.pdb
+D:\MyJob\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.BusinessLogic.dll.config
+D:\MyJob\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.BusinessLogic.dll
+D:\MyJob\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.BusinessLogic.pdb
+D:\MyJob\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.Common.dll
+D:\MyJob\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.DataAccess.dll
+D:\MyJob\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.Common.pdb
+D:\MyJob\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.DataAccess.pdb
+E:\MyJob\KATAJ\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.BusinessLogic.dll.config
+E:\MyJob\KATAJ\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.BusinessLogic.dll
+E:\MyJob\KATAJ\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.BusinessLogic.pdb
+E:\MyJob\KATAJ\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.Common.dll
+E:\MyJob\KATAJ\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.DataAccess.dll
+E:\MyJob\KATAJ\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.Common.pdb
+E:\MyJob\KATAJ\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.DataAccess.pdb
+E:\MyJob\KATAJ\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+E:\MyJob\KATAJ\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Debug\OnlineShop.BusinessLogic.dll
+E:\MyJob\KATAJ\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Debug\OnlineShop.BusinessLogic.pdb
+E:\My Job\Projects\KATAJ\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.BusinessLogic.dll.config
+E:\My Job\Projects\KATAJ\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.BusinessLogic.dll
+E:\My Job\Projects\KATAJ\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.BusinessLogic.pdb
+E:\My Job\Projects\KATAJ\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.Common.dll
+E:\My Job\Projects\KATAJ\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.DataAccess.dll
+E:\My Job\Projects\KATAJ\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.Common.pdb
+E:\My Job\Projects\KATAJ\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.DataAccess.pdb
+E:\My Job\Projects\KATAJ\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+E:\My Job\Projects\KATAJ\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Debug\OnlineShop.BusinessLogic.dll
+E:\My Job\Projects\KATAJ\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Debug\OnlineShop.BusinessLogic.pdb
+H:\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.BusinessLogic.dll.config
+H:\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.BusinessLogic.dll
+H:\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.BusinessLogic.pdb
+H:\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.Common.dll
+H:\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.DataAccess.dll
+H:\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.Common.pdb
+H:\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.DataAccess.pdb
+H:\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+H:\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Debug\OnlineShop.BusinessLogic.dll
+H:\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Debug\OnlineShop.BusinessLogic.pdb
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.BusinessLogic.dll.config
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.BusinessLogic.dll
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.BusinessLogic.pdb
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.Common.dll
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.DataAccess.dll
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.Common.pdb
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.DataAccess.pdb
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Debug\OnlineShop.BusinessLogic.dll
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Debug\OnlineShop.BusinessLogic.pdb
+E:\My Documents\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.BusinessLogic.dll.config
+E:\My Documents\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.BusinessLogic.dll
+E:\My Documents\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.BusinessLogic.pdb
+E:\My Documents\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.Common.dll
+E:\My Documents\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.DataAccess.dll
+E:\My Documents\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.Common.pdb
+E:\My Documents\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Debug\OnlineShop.DataAccess.pdb
+E:\My Documents\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+E:\My Documents\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Debug\OnlineShop.BusinessLogic.dll
+E:\My Documents\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Debug\OnlineShop.BusinessLogic.pdb

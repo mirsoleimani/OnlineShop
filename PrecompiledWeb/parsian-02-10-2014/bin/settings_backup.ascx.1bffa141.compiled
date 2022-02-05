@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/Settings_backup.ascx" hash="5bf7dff5c" filehash="19a6645af4804d2" flags="100000" assembly="App_Web_d0qspzey" type="ASP.admin_modules_settings_backup_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/AboutUsInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/AboutUsInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/GuideInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/GuideInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/MovingMessageInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/MovingMessageInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/PublicityInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/PublicityInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/Settings_backup.ascx" />
+        <filedep name="/Web/Admin/Modules/Settings_backup.ascx.cs" />
+    </filedeps>
+</preserve>

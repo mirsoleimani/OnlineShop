@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/ShopInfo.ascx" hash="5bf7dff5c" filehash="d188562ffc15dcfc" flags="100000" assembly="App_Web_k52oneie" type="ASP.admin_modules_shopinfo_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/NumericTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/NumericTextBox.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/PersianCalendar.ascx" />
+        <filedep name="/Web/Admin/Modules/PersianCalendar.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/ShopInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/ShopInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/ShopRating.ascx" />
+        <filedep name="/Web/Admin/Modules/ShopRating.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx.cs" />
+    </filedeps>
+</preserve>

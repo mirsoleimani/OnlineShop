@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Publicity.aspx" hash="581ae6859" filehash="4cd196e4a606d444" flags="100000" assembly="App_Web_rfqz42pp" type="ASP.publicity_aspx">
+    <filedeps>
+        <filedep name="/Web/GeneralMasterPage.master" />
+        <filedep name="/Web/GeneralMasterPage.master.cs" />
+        <filedep name="/Web/Modules/Pager.ascx" />
+        <filedep name="/Web/Modules/Pager.ascx.cs" />
+        <filedep name="/Web/Modules/ProductSearchBox.ascx" />
+        <filedep name="/Web/Modules/ProductSearchBox.ascx.cs" />
+        <filedep name="/Web/Modules/Publicity.ascx" />
+        <filedep name="/Web/Modules/Publicity.ascx.cs" />
+        <filedep name="/Web/Modules/QuickGuide.ascx" />
+        <filedep name="/Web/Modules/QuickGuide.ascx.cs" />
+        <filedep name="/Web/Modules/SearchBox.ascx" />
+        <filedep name="/Web/Modules/SearchBox.ascx.cs" />
+        <filedep name="/Web/Modules/ShopCategoriesBottomList.ascx" />
+        <filedep name="/Web/Modules/ShopCategoriesBottomList.ascx.cs" />
+        <filedep name="/Web/Modules/ShopQuickAccess.ascx" />
+        <filedep name="/Web/Modules/ShopQuickAccess.ascx.cs" />
+        <filedep name="/Web/Modules/ShopSearchBox.ascx" />
+        <filedep name="/Web/Modules/ShopSearchBox.ascx.cs" />
+        <filedep name="/Web/Modules/Topic.ascx" />
+        <filedep name="/Web/Modules/Topic.ascx.cs" />
+        <filedep name="/Web/Publicity.aspx" />
+        <filedep name="/Web/Publicity.aspx.cs" />
+    </filedeps>
+</preserve>

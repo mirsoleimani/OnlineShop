@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Modules/Topic.ascx" hash="581ae6859" filehash="e230ebca95937e87" flags="100000" assembly="App_Web_dvwavhyl" type="ASP.modules_topic_ascx">
+    <filedeps>
+        <filedep name="/Web/Modules/Topic.ascx" />
+        <filedep name="/Web/Modules/Topic.ascx.cs" />
+    </filedeps>
+</preserve>

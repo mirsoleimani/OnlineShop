@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/Settings.ascx" hash="5bf7dff5c" filehash="8f85f29be4542354" flags="100000" assembly="App_Web_k52oneie" type="ASP.admin_modules_settings_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/AboutUsInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/AboutUsInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/FirozehInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/FirozehInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/GuideInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/GuideInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/MovingMessageInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/MovingMessageInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/PublicityInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/PublicityInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/Settings.ascx" />
+        <filedep name="/Web/Admin/Modules/Settings.ascx.cs" />
+    </filedeps>
+</preserve>

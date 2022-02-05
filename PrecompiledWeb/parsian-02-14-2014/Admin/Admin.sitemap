@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap enableLocalization="true"  xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode title="ميزکار" description="ميزکار مديريت">
+
+    <!--Home-->
+    <siteMapNode url="~/Admin/Default.aspx"
+                 title="ميزکار"
+                 description="نمايش ميزکار"
+                 IconUrl="~/Admin/Icons/ico-dashboard.png"/>
+
+    <!--EndUsers-->
+    <siteMapNode title="کاربرها"
+                 url="~/Admin/EndUsers.aspx"
+                 description="مديريت کاربران"
+                 IconUrl="~/Admin/Icons/ico-endusers.png"/>
+    <!--Catalog-->
+    <siteMapNode url="~/Admin/Catalog.aspx"
+                  title="کاتالوگ"
+                 descripton="کاتالوگ فروشگاه ها"
+                 IconUrl="~/Admin/Icons/ico-catalog.png">
+
+      <siteMapNode url="~/Admin/Shops.aspx"
+                   title="فروشگاه ها"
+                   description="مديريت فروشگاه ها"
+                   />
+
+      <siteMapNode title="دسته ها"
+                   url="~/Admin/Categories.aspx"
+                   description="مديريت دسته ها"/>
+
+
+      <siteMapNode title="محصولات"
+                   url="~/Admin/Products.aspx"
+                   description="مديريت محصولات"/>
+
+
+    </siteMapNode>
+
+
+    <!--Orders-->
+    <siteMapNode url="~/Admin/Orders.aspx"
+                 title="سفارش ها"
+                 description="سفارش هاي مشتريان"
+                 IconUrl="Icons/ico-sales.png">
+
+
+    </siteMapNode>
+
+    <!--جستجوي پيشرفته-->
+    <siteMapNode url="~/Admin/AdvancedSearch.aspx"
+                 title="جستجوي پيشرفته"
+                 description="جستجوي پيشرفته"
+                 IconUrl="Icons/ico-search.png">
+
+    </siteMapNode>
+    <!--Settings-->
+    <siteMapNode url="~/Admin/Settings.aspx"
+                 title="تنظيمات"
+                 description="تنظيمات سايت"
+                 IconUrl="Icons/ico-configuration.png">
+
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

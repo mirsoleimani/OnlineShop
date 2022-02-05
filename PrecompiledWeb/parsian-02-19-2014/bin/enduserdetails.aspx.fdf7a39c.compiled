@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/EndUserDetails.aspx" hash="36117edd1" filehash="bdf004e93d1abad5" flags="100000" assembly="App_Web_iqzmnwpy" type="ASP.admin_enduserdetails_aspx">
+    <filedeps>
+        <filedep name="/Web/Admin/AdminMasterPage.master" />
+        <filedep name="/Web/Admin/AdminMasterPage.master.cs" />
+        <filedep name="/Web/Admin/EndUserDetails.aspx" />
+        <filedep name="/Web/Admin/EndUserDetails.aspx.cs" />
+        <filedep name="/Web/Admin/Modules/EmailTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/EmailTextBox.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/EndUsePersonalInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUsePersonalInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/EndUserCareerAddressInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUserCareerAddressInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/EndUserCareerInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUserCareerInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/EndUserContactInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUserContactInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/EndUserDetails.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUserDetails.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/EndUserHomeAddressInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUserHomeAddressInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/EndUserShops.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUserShops.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/PersianCalendar.ascx" />
+        <filedep name="/Web/Admin/Modules/PersianCalendar.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx.cs" />
+        <filedep name="/Web/Modules/EndUserLoginView.ascx" />
+        <filedep name="/Web/Modules/EndUserLoginView.ascx.cs" />
+    </filedeps>
+</preserve>

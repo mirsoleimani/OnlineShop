@@ -1,0 +1,166 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="GeneralMasterPage.master.cs"
+    Inherits="GeneralMasterPage" %>
+
+<%@ Register Src="Modules/ShopSearchBox.ascx" TagName="ShopSearchBox" TagPrefix="uc1" %>
+<%@ Register Assembly="NetSwf" Namespace="NetControls.NetSwf" TagPrefix="NetControls" %>
+<%@ Register Src="Modules/ShopQuickAccess.ascx" TagName="ShopQuickAccess" TagPrefix="uc3" %>
+<%@ Register Src="Modules/QuickGuide.ascx" TagName="QuickGuide" TagPrefix="uc4" %>
+<%@ Register Src="Modules/Topic.ascx" TagName="Topic" TagPrefix="uc5" %>
+<%@ Register Src="Modules/ShopCategoriesBottomList.ascx" TagName="ShopCategoriesBottomList"
+    TagPrefix="uc7" %>
+<%@ Register Src="Modules/SearchBox.ascx" TagName="SearchBox" TagPrefix="uc8" %>
+<%--<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="ajaxToolkit"%>--%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>فروشگاه صنایع دستی پارسیان فیروزه</title>
+    <meta name="keywords" content="   سنگ فیروزه مرغوب،فیروزه نیشابور، فیروزه کوبی، صنایع دستی، اصفهان، نقش جهان،  مس ،صنعت، آینه و شمعدان، گلدان، جام، شکلات خوری، چراغ خواب، زیور آلات ، سفره عقد مدرن فیروزه ای، زیبا، گیرا،صنایع دستی فیروزه اصفهان،صنایع دستی فیروزه کوبی " />
+    <meta name="description" content="فيروزه كوبي يكي از معدود رشته هاي صنايع دستي است كه زيبايي و گيرايي يك فرآورده‌ي خوب صنايع دستي را با خود دارد. هنر فیروزه کوبی عمدتاً ترکیب زیباترین ظرف‌های مسی با سنگ‌های فیروزه است که  ترکیب چشم نواز مس سرخ رنگ و سنگ فیروزه زیبایی و گیرایی خاصی دارد. محصولات فروشگاه پارسیان فیروزه (واقع در خیابان چهرباغ بالای اصفهان)، عمدتاً صنایع دستی فیروزه کوبی است که شامل آینه و شمعدان، زیورآلات و ظروف تزیینی و کاربردی در طرح های مختلف میباشد. " />
+    <meta name="author" content="Ali Mirsoleimani"> 
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td class="shadow_left">
+                &nbsp;
+            </td>
+            <td class="logo_area">
+                <img width="1208px" height="179px" src="App_Themes/OnlineShopFirozeh/Images/header-bg.png" />
+            </td>
+            <td class="shadow_right">
+                &nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td align="right" class="shadow_left">
+                <%--<uc4:QuickGuide ID="QuickGuide1" runat="server" />--%>
+            </td>
+            <ajaxToolkit:ToolkitScriptManager runat="Server" ID="ScriptManager1" />
+           <td class="horizontal_center" align="center">
+                    
+         <asp:Menu ID="mnuDefault" runat="server" Orientation="Horizontal" DataSourceID="smdsDefault">
+<StaticMenuStyle Width="1200px" HorizontalPadding="200px"  />
+<StaticMenuItemStyle ItemSpacing="50px" />
+            <StaticItemTemplate>
+                            <asp:HyperLink ID="btnmenu1" runat="server"  NavigateUrl='<%# Eval("NavigateUrl") %>' Text='<%#Eval("Text") %>'
+                                ToolTip='<%#Eval("Text") %>' Font-Names="Tahoma" Font-Size="Large" Font-Bold="true" Font-Italic="true" Font-Underline="false" ForeColor="Turquoise" />
+                            <ajaxToolkit:AnimationExtender ID="AnimationExample2A" runat="server" TargetControlID="btnmenu1">
+                                <Animations>
+            <OnLoad>
+                <OpacityAction Opacity=".4" />
+            </OnLoad>
+            <OnHoverOver>
+                <FadeIn Duration=".25" Fps="20" MinimumOpacity=".4" MaximumOpacity=".8" />
+            </OnHoverOver>
+            <OnHoverOut>
+                <FadeOut Duration=".25" Fps="20" MinimumOpacity=".4" MaximumOpacity=".8" />
+            </OnHoverOut>
+        </Animations>
+                            </ajaxToolkit:AnimationExtender>
+            </StaticItemTemplate>
+        </asp:Menu>
+        <asp:SiteMapDataSource ID="smdsDefault" runat="server" SiteMapProvider="DefaultXmlSiteMapProvider"
+            ShowStartingNode="false" />
+
+            </td>
+            <td align="left" class="shadow_right">
+                <%--<uc3:ShopQuickAccess ID="ShopQuickAccess1" runat="server" />--%>
+            </td>
+        </tr>
+        <tr>
+            <td class="shadow_left">
+                &nbsp;
+            </td>
+            <td>
+             <asp:ContentPlaceHolder ID="ContentPlaceHolderSlideShow" runat="server">
+             </asp:ContentPlaceHolder>
+                <%--<table>
+                    <tr>
+                     <td>
+                        <asp:Image ID="Image1" runat="server" Height="400" Width="500" Style="border: 1px solid black;"
+                        AlternateText="Blue Hills image" />
+                        <ajaxToolkit:SlideShowExtender ID="SlideShowExtender1" runat="server" TargetControlID="Image1"
+                             SlideShowServicePath="wsSlideShow.asmx" SlideShowServiceMethod="GetSlides" AutoPlay="true"
+                             Loop="true" SlideShowAnimationType="SlideRight">
+                        </ajaxToolkit:SlideShowExtender>
+                       </td>
+                       <td>
+                        <img width="700" height="400" src="App_Themes/OnlineShopFirozeh/Images/sofre.JPG"/>
+                       </td>
+                    </tr>
+                 </table>   --%>
+            </td class="header_column">
+            <td class="shadow_right" style="text-align: center; vertical-align: middle">
+                &nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td class="shadow_left">
+                &nbsp;
+            </td>
+            <td class="below_header">
+                <uc5:Topic ID="ctrlTopic" runat="server" />
+                <asp:ContentPlaceHolder ID="ContentPlaceHolderBelowHeader" runat="server">
+                </asp:ContentPlaceHolder>
+            </td>
+            <td class="shadow_right">
+                &nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td class="shadow_left">
+                &nbsp;
+            </td>
+            <td >
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td >
+                            <asp:ContentPlaceHolder ID="ContentPlaceHolderMainContent" runat="server">
+                            </asp:ContentPlaceHolder>
+                        </td>
+                        <td >
+                            <asp:ContentPlaceHolder ID="ContentPlaceHolderRightContent" runat="server">
+                            </asp:ContentPlaceHolder>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td class="shadow_right">
+                &nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td class="shadow_left">
+                &nbsp;
+            </td>
+            <td align="center">
+                <div class="bottom">
+                </div>
+                <div class="bottom_link_container">
+                    <p>
+                        <a href="Default.aspx" class="bottom_link">صفحه نخست</a> | <a href="AboutUs.aspx"
+                            class="bottom_link">درباره ي ما</a> | <a href="ContactUs.aspx" class="bottom_link">تماس
+                                با ما</a>| <a href="AboutTurquoise.aspx" class="bottom_link">دانشنامه سنگ فیروزه</a>| <a href="Admin/Default.aspx" class="bottom_link">پنل کاربری</a>
+                    </p>
+<%--                    <p style="width: 400px;">
+                        <uc7:ShopCategoriesBottomList ID="ShopCategoriesBottomList1" runat="server" />
+                    </p>--%>
+                    <p>
+                        All Right Reserved &copy; 2014<br />
+                        تمامي حقوق اين سايت براي فروشگاه صنایع دستی پارسیان فیروزه محفوظ است<br />
+                        Designed and developed by E&A 
+                    </p>
+                </div>
+            </td>
+            <td class="shadow_right">
+                &nbsp;
+            </td>
+        </tr>
+
+    </table>
+    </form>
+</body>
+</html>

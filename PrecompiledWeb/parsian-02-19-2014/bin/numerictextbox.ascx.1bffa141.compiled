@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/NumericTextBox.ascx" hash="36117edd1" filehash="20bbfa331c59ba27" flags="100000" assembly="App_Web_4v3ktltc" type="ASP.admin_modules_numerictextbox_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/NumericTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/NumericTextBox.ascx.cs" />
+    </filedeps>
+</preserve>

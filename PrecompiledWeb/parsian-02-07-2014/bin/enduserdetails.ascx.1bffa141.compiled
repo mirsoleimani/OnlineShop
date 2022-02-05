@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/EndUserDetails.ascx" hash="5bf7dff5c" filehash="bc31fb4561aa0544" flags="100000" assembly="App_Web_mijmqz1o" type="ASP.admin_modules_enduserdetails_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/EmailTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/EmailTextBox.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/EndUsePersonalInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUsePersonalInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/EndUserCareerAddressInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUserCareerAddressInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/EndUserCareerInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUserCareerInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/EndUserContactInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUserContactInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/EndUserDetails.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUserDetails.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/EndUserHomeAddressInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUserHomeAddressInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/EndUserShops.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUserShops.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/PersianCalendar.ascx" />
+        <filedep name="/Web/Admin/Modules/PersianCalendar.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx.cs" />
+    </filedeps>
+</preserve>

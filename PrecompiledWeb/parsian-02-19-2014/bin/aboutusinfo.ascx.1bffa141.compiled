@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/AboutUsInfo.ascx" hash="36117edd1" filehash="bf5d4f81376d82cd" flags="100000" assembly="App_Web_4v3ktltc" type="ASP.admin_modules_aboutusinfo_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/AboutUsInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/AboutUsInfo.ascx.cs" />
+    </filedeps>
+</preserve>

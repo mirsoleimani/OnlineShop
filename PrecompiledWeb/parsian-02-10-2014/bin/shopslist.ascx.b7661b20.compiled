@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Modules/ShopsList.ascx" hash="581ae6859" filehash="45a22dbe77639618" flags="100000" assembly="App_Web_b1kaquis" type="ASP.modules_shopslist_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/ShopRating.ascx" />
+        <filedep name="/Web/Admin/Modules/ShopRating.ascx.cs" />
+        <filedep name="/Web/Modules/Pager.ascx" />
+        <filedep name="/Web/Modules/Pager.ascx.cs" />
+        <filedep name="/Web/Modules/ShopsList.ascx" />
+        <filedep name="/Web/Modules/ShopsList.ascx.cs" />
+    </filedeps>
+</preserve>

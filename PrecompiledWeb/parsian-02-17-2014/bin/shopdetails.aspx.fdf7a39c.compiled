@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/ShopDetails.aspx" hash="5bf7dff5c" filehash="5700c489e70bc2f4" flags="100000" assembly="App_Web_w0zlavq5" type="ASP.admin_shopdetails_aspx">
+    <filedeps>
+        <filedep name="/Web/Admin/AdminMasterPage.master" />
+        <filedep name="/Web/Admin/AdminMasterPage.master.cs" />
+        <filedep name="/Web/Admin/Modules/NumericTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/NumericTextBox.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/PersianCalendar.ascx" />
+        <filedep name="/Web/Admin/Modules/PersianCalendar.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/ShopCategoryMap.ascx" />
+        <filedep name="/Web/Admin/Modules/ShopCategoryMap.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/ShopDetails.ascx" />
+        <filedep name="/Web/Admin/Modules/ShopDetails.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/ShopInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/ShopInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/ShopProducts.ascx" />
+        <filedep name="/Web/Admin/Modules/ShopProducts.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/ShopRating.ascx" />
+        <filedep name="/Web/Admin/Modules/ShopRating.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx.cs" />
+        <filedep name="/Web/Admin/ShopDetails.aspx" />
+        <filedep name="/Web/Admin/ShopDetails.aspx.cs" />
+        <filedep name="/Web/Modules/EndUserLoginView.ascx" />
+        <filedep name="/Web/Modules/EndUserLoginView.ascx.cs" />
+    </filedeps>
+</preserve>

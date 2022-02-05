@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/EndUserCareerInfo.ascx" hash="36117edd1" filehash="b22011efc897d106" flags="100000" assembly="App_Web_knysyok4" type="ASP.admin_modules_endusercareerinfo_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/EndUserCareerInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUserCareerInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx.cs" />
+    </filedeps>
+</preserve>

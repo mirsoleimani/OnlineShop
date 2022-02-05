@@ -1,0 +1,8 @@
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.DataAccess\bin\Release\OnlineShop.DataAccess.dll.config
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.DataAccess\bin\Release\OnlineShop.DataAccess.dll
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.DataAccess\bin\Release\OnlineShop.DataAccess.pdb
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.DataAccess\bin\Release\OnlineShop.Common.dll
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.DataAccess\bin\Release\OnlineShop.Common.pdb
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.DataAccess\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.DataAccess\obj\Release\OnlineShop.DataAccess.dll
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.DataAccess\obj\Release\OnlineShop.DataAccess.pdb

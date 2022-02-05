@@ -1,0 +1,10 @@
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Release\OnlineShop.BusinessLogic.dll.config
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Release\OnlineShop.BusinessLogic.dll
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Release\OnlineShop.BusinessLogic.pdb
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Release\OnlineShop.Common.dll
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Release\OnlineShop.DataAccess.dll
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Release\OnlineShop.Common.pdb
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\bin\Release\OnlineShop.DataAccess.pdb
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Release\OnlineShop.BusinessLogic.dll
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.BusinessLogic\obj\Release\OnlineShop.BusinessLogic.pdb

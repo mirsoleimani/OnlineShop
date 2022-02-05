@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Modules/Search.ascx" hash="581ae6859" filehash="2cc8bd718d380d1a" flags="100000" assembly="App_Web_d3paaozg" type="ASP.modules_search_ascx">
+    <filedeps>
+        <filedep name="/Web/Modules/Search.ascx" />
+        <filedep name="/Web/Modules/Search.ascx.cs" />
+    </filedeps>
+</preserve>

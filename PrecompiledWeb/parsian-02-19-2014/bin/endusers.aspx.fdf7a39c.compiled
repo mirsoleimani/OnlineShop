@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/EndUsers.aspx" hash="36117edd1" filehash="ef3fc31a914bc503" flags="100000" assembly="App_Web_iqzmnwpy" type="ASP.admin_endusers_aspx">
+    <filedeps>
+        <filedep name="/Web/Admin/AdminMasterPage.master" />
+        <filedep name="/Web/Admin/AdminMasterPage.master.cs" />
+        <filedep name="/Web/Admin/EndUsers.aspx" />
+        <filedep name="/Web/Admin/EndUsers.aspx.cs" />
+        <filedep name="/Web/Admin/Modules/EndUsers.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUsers.ascx.cs" />
+        <filedep name="/Web/Modules/EndUserLoginView.ascx" />
+        <filedep name="/Web/Modules/EndUserLoginView.ascx.cs" />
+    </filedeps>
+</preserve>

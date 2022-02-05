@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Web/wsSlideShow.asmx" hash="ffffffffd3f34de9" filehash="ffffd5520d06d1b5" flags="130000" assembly="App_Code" type="wsSlideShow">
+    <filedeps>
+        <filedep name="/Web/wsSlideShow.asmx" />
+    </filedeps>
+</preserve>

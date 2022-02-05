@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap enableLocalization="true"  xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode title="ميزکار" description="ميزکار مديريت">
+
+    <!--Contact-->
+    <siteMapNode url="~/ContactUs.aspx"
+                 title="ارتباط با ما"
+                 description="ارتباط با ما"/>
+                 <!--IconUrl="~/Admin/Icons/ico-dashboard.png"/>-->
+
+    <!--About Us-->
+    <siteMapNode title="درباره ما"
+                 url="~/AboutUs.aspx"
+                 description="درباره ما"/>
+                 <!--IconUrl="~/Admin/Icons/ico-endusers.png"/>-->
+    <!--Catalog-->
+    <!--<siteMapNode url="~/Admin/Catalog.aspx"
+                  title="کاتالوگ"
+                 descripton="کاتالوگ فروشگاه ها"
+                 IconUrl="~/Admin/Icons/ico-catalog.png">
+
+      <siteMapNode url="~/Admin/Shops.aspx"
+                   title="فروشگاه ها"
+                   description="مديريت فروشگاه ها"
+                   />
+
+      <siteMapNode title="دسته ها"
+                   url="~/Admin/Categories.aspx"
+                   description="مديريت دسته ها"/>
+
+
+      <siteMapNode title="محصولات"
+                   url="~/Admin/Products.aspx"
+                   description="مديريت محصولات"/>
+
+
+    </siteMapNode>-->
+
+
+    <!--Firoze Stone-->
+    <siteMapNode url="~/AboutTurquoise.aspx"
+                 title="دانشنامه سنگ فیروزه"
+                 description="دانشنامه سنگ فیروزه">
+      <!--IconUrl="Icons/ico-sales.png">-->
+
+
+    </siteMapNode>
+
+    <!--Gallery-->
+    <siteMapNode url="~/Gallery.aspx"
+                 title="گالری"
+                 description="گالری">
+      <!--IconUrl="Icons/ico-search.png">-->
+
+    </siteMapNode>
+    <!--Home-->
+    <siteMapNode url="~/Default.aspx"
+                 title="صفحه اصلی"
+                 description="صفحه اصلی">
+      <!--IconUrl="Icons/ico-configuration.png">-->
+
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

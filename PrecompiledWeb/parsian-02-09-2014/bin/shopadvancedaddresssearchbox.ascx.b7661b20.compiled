@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Modules/ShopAdvancedAddressSearchBox.ascx" hash="581ae6859" filehash="86eba28c2cf04565" flags="100000" assembly="App_Web_3ouxzsr3" type="ASP.modules_shopadvancedaddresssearchbox_ascx">
+    <filedeps>
+        <filedep name="/Web/Modules/ShopAdvancedAddressSearchBox.ascx" />
+        <filedep name="/Web/Modules/ShopAdvancedAddressSearchBox.ascx.cs" />
+    </filedeps>
+</preserve>

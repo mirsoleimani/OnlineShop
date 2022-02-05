@@ -1,0 +1,168 @@
+﻿/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+	Shops - DONE
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+.ShopGrid
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	
+	font-family:Tahoma;
+	vertical-align:middle;
+
+}
+
+.ShopGrid a
+{
+	color: #333;
+}
+
+.ShopGrid .ItemBox
+{
+	text-align: center;
+	vertical-align:top;
+	border:solid 1px silver;
+	/*background-color:White;*/
+}
+
+.ShopGrid .ShopItem
+{
+	text-align: justify;
+	margin: 10px 10px 10px 10px;
+	width: 150px;
+	vertical-align:text-top;
+	/*border: 2px solid rgb(232, 230, 210);*/
+	background: url('Images/cat-bg.gif') no-repeat 0 100%;
+}
+
+.ShopGrid .ShopItem .title
+{
+	
+	text-align: center;	
+	font-size: 10pt;
+	display: block;
+	overflow: hidden hidden;
+	height: 2em;
+	padding: 10px 0px 0px 0px;
+	background: url('Images/cat-title.gif') no-repeat;
+}
+
+.ShopGrid .ShopItem .image
+{
+	text-align:center;
+	vertical-align:middle;
+	padding: 1px 1px 1px 2px;
+	width:100px;
+	height:120px;
+}
+.ShopGrid .ShopItem .description
+{
+	font-size:9pt;
+	text-align: justify;
+	border-top: solid 1px #e3e3e3;
+	/*margin: 5px 5px 0 5px;*/
+	padding: 5px 5px 5px 5px;
+	color: #555;
+	direction:rtl;
+	vertical-align:top;
+	height:100px;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+	Shop - Detail
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+
+.ShopDetail 
+{
+	padding: 0px;
+	margin-bottom: 10px;
+	text-align:center;
+	width: 100%;	
+	font-family:Tahoma;		
+	color: #555;
+	direction:rtl;
+
+	
+}
+
+
+.ShopDetail .ItemBox
+{
+	/*padding-bottom: 10px 10px 10px 10px;
+	margin-left: 10px;
+	margin-right: 10px;	*/
+	width:100%;
+	text-align:center;	
+	/*border:solid 1px silver;*/
+	background-color:White;
+	
+}
+
+.ShopDetail .ShopItem
+{
+	text-align:center;		
+	width: 550px;	
+	background-color:White;
+	direction:rtl;
+	background: url('Images/shop-bg.jpg') no-repeat 100% 100%;		
+
+
+
+	
+}
+
+.ShopDetail .ShopItem .title 
+{	
+	text-align:center;
+	display: block;
+	overflow: hidden hidden;
+	background: url('Images/shop_detail_header.gif') no-repeat;	
+	padding: 5px 5px 10px 5px;
+	font-size: 10pt;	
+	color:#333;
+	border-bottom:solix 1px silver;	
+}
+
+
+.ShopDetail .ShopItem .image
+{
+	padding: 5px 5px 5px 5px;
+	vertical-align:top;
+	text-align:right;
+}
+.ShopDetail .ShopItem .description
+{
+	/*margin: 5px 5px 0 5px;*/
+	padding: 10px 5px 10px 5px;
+	text-align: justify;	
+	font-size:9pt;
+	height: auto;
+	vertical-align:top;
+
+}
+.ShopDetail .ShopItem .ContactInfo
+{
+	/*margin: 5px 5px 0 5px;*/
+	padding: 0px 5px 10px 5px;
+	text-align: right;	
+	font-size:9pt;
+	height: auto;
+	vertical-align:top;
+
+}
+
+.ShopDetail .ShopItem .AddInfo
+{
+	text-align: right;
+	border-top: solid 1px #e3e3e3;
+	height: auto;	
+	font-size:9pt;
+	vertical-align:top;
+}
+

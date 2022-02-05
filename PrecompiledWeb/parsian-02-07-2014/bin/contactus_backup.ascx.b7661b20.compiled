@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Modules/ContactUs_backup.ascx" hash="581ae6859" filehash="80ae0da2b218c817" flags="100000" assembly="App_Web_4mjpgefu" type="ASP.modules_contactus_backup_ascx">
+    <filedeps>
+        <filedep name="/Web/Modules/ContactUs_backup.ascx" />
+        <filedep name="/Web/Modules/ContactUs_backup.ascx.cs" />
+    </filedeps>
+</preserve>

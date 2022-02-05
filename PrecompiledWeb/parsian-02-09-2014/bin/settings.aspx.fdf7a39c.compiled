@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Settings.aspx" hash="5bf7dff5c" filehash="b46ecb20b46c16a0" flags="100000" assembly="App_Web_nwn24ap0" type="ASP.admin_settings_aspx">
+    <filedeps>
+        <filedep name="/Web/Admin/AdminMasterPage.master" />
+        <filedep name="/Web/Admin/AdminMasterPage.master.cs" />
+        <filedep name="/Web/Admin/Modules/AboutUsInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/AboutUsInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/FirozehInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/FirozehInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/GuideInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/GuideInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/MovingMessageInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/MovingMessageInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/PublicityInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/PublicityInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/Settings.ascx" />
+        <filedep name="/Web/Admin/Modules/Settings.ascx.cs" />
+        <filedep name="/Web/Admin/Settings.aspx" />
+        <filedep name="/Web/Admin/Settings.aspx.cs" />
+        <filedep name="/Web/Modules/EndUserLoginView.ascx" />
+        <filedep name="/Web/Modules/EndUserLoginView.ascx.cs" />
+    </filedeps>
+</preserve>

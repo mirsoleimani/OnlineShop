@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/Categories.ascx" hash="36117edd1" filehash="aa0f73b19d359a97" flags="100000" assembly="App_Web_4v3ktltc" type="ASP.admin_modules_categories_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/Categories.ascx" />
+        <filedep name="/Web/Admin/Modules/Categories.ascx.cs" />
+    </filedeps>
+</preserve>

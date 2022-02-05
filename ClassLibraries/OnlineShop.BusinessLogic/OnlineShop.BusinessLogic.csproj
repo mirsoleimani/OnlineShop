@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{86784AB5-CE4D-4F4A-8AA7-44970EBFA03D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OnlineShop.BusinessLogic</RootNamespace>
+    <AssemblyName>OnlineShop.BusinessLogic</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SignAssembly>false</SignAssembly>
+    <AssemblyOriginatorKeyFile>KatajKey.pfx</AssemblyOriginatorKeyFile>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>http://localhost/OnlineShop.BusinessLogic/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.ServiceModel">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Category\ProcessDeleteCategoryByID.cs" />
+    <Compile Include="Category\ProcessAddCategory.cs" />
+    <Compile Include="Category\ProcessGetCategories.cs" />
+    <Compile Include="Category\ProcessGetCategoryByID.cs" />
+    <Compile Include="Category\ProcessGetCategoryImageByID.cs" />
+    <Compile Include="Category\ProcessUpdateCategory.cs" />
+    <Compile Include="EndUser\ProcessAddEndUser.cs" />
+    <Compile Include="EndUser\ProcessAddEndUserAddressInfo.cs" />
+    <Compile Include="EndUser\ProcessAddEndUserCareerInfo.cs" />
+    <Compile Include="EndUser\ProcessAddEndUserContactInfo.cs" />
+    <Compile Include="EndUser\ProcessAddEndUserPersonalInfo.cs" />
+    <Compile Include="EndUser\ProcessGetEndUserAddressInfoByEndUserID.cs" />
+    <Compile Include="EndUser\ProcessGetEndUserCareerInfoByEndUserID.cs" />
+    <Compile Include="EndUser\ProcessGetEndUserContactInfoByEndUserID.cs" />
+    <Compile Include="EndUser\ProcessGetEndUser.cs" />
+    <Compile Include="EndUser\ProcessGetEndUsers.cs" />
+    <Compile Include="EndUser\ProcessGetEndUsersByRegistrarName.cs" />
+    <Compile Include="EndUser\ProcessGetPersonalInfoByEndUserID.cs" />
+    <Compile Include="EndUser\ProcessSearchEndUserByRegistrarName.cs" />
+    <Compile Include="EndUser\ProcessUpdateEndUserAddressInfo.cs" />
+    <Compile Include="EndUser\ProcessUpdateEndUserCareerInfo.cs" />
+    <Compile Include="EndUser\ProcessUpdateEndUserContactInfo.cs" />
+    <Compile Include="EndUser\ProcessUpdateEndUserPersonalInfo.cs" />
+    <Compile Include="IBusinessLogic.cs" />
+    <Compile Include="ProcessGetStateProvinces.cs" />
+    <Compile Include="Product\ProcessAddProduct.cs" />
+    <Compile Include="Product\ProcessGetProductByID.cs" />
+    <Compile Include="Product\ProcessGetProductImageByID.cs" />
+    <Compile Include="Product\ProcessGetProductsByShopID.cs" />
+    <Compile Include="Product\ProcessGetProductsByShopIDPaged.cs" />
+    <Compile Include="Product\ProcessSearchProducts.cs" />
+    <Compile Include="Product\ProcessUpdateProduct.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Shop\ProcessAddShop.cs" />
+    <Compile Include="Shop\ProcessAddShopCategory.cs" />
+    <Compile Include="Shop\ProcessDeleteShopByID.cs" />
+    <Compile Include="Shop\ProcessDeleteShopCategoryByID.cs" />
+    <Compile Include="Shop\ProcessGetShopByCategoryID.cs" />
+    <Compile Include="Shop\ProcessGetShopByCode.cs" />
+    <Compile Include="Shop\ProcessGetShopByID.cs" />
+    <Compile Include="Shop\ProcessGetShopCategories.cs" />
+    <Compile Include="Shop\ProcessGetShopCategoriesByShopID.cs" />
+    <Compile Include="Shop\ProcessGetShopCategoryImage.cs" />
+    <Compile Include="Shop\ProcessGetShopImageByID.cs" />
+    <Compile Include="Shop\ProcessGetShops.cs" />
+    <Compile Include="Shop\ProcessGetShopsByEndUserID.cs" />
+    <Compile Include="Shop\ProcessSearchShopByCareerInfoAdvanced.cs" />
+    <Compile Include="Shop\ProcessSearchShopByContactInfoAdvanced.cs" />
+    <Compile Include="Shop\ProcessSearchShops.cs" />
+    <Compile Include="Shop\ProcessSearchShopsByAddressInfoAdvanced.cs" />
+    <Compile Include="Shop\ProcessUpdateShop.cs" />
+    <Compile Include="Shop\Search\ProcessSearchShopAddressInfoByCategoryID.cs" />
+    <Compile Include="Shop\Search\ProcessSearchShopContactInfoByCategoryID.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineShop.Common\OnlineShop.Common.csproj">
+      <Project>{E166BF7A-4594-4475-9076-077B8172CF71}</Project>
+      <Name>OnlineShop.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OnlineShop.DataAccess\OnlineShop.DataAccess.csproj">
+      <Project>{9022F750-3635-490B-AE53-F82E0858A442}</Project>
+      <Name>OnlineShop.DataAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="KatajKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="EndUser\Search\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

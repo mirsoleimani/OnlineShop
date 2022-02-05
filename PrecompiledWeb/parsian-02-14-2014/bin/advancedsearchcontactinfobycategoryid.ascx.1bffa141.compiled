@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/AdvancedSearchContactInfoByCategoryID.ascx" hash="5bf7dff5c" filehash="64e9a726e82652f0" flags="100000" assembly="App_Web_o3v5syp0" type="ASP.admin_modules_advancedsearchcontactinfobycategoryid_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/AdvancedSearchContactInfoByCategoryID.ascx" />
+        <filedep name="/Web/Admin/Modules/AdvancedSearchContactInfoByCategoryID.ascx.cs" />
+    </filedeps>
+</preserve>

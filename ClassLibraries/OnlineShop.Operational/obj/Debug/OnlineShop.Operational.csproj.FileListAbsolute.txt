@@ -1,0 +1,42 @@
+C:\Documents and Settings\S.Ali mirsoleimani\My Documents\Visual Studio 2008\Projects\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Debug\OnlineShop.Operational.dll
+C:\Documents and Settings\S.Ali mirsoleimani\My Documents\Visual Studio 2008\Projects\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Debug\OnlineShop.Operational.pdb
+C:\Documents and Settings\S.Ali mirsoleimani\My Documents\Visual Studio 2008\Projects\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\S.Ali mirsoleimani\My Documents\Visual Studio 2008\Projects\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Debug\OnlineShop.Operational.dll
+C:\Documents and Settings\S.Ali mirsoleimani\My Documents\Visual Studio 2008\Projects\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Debug\OnlineShop.Operational.pdb
+C:\Documents and Settings\S.Ali mirsoleimani\My Documents\Visual Studio 2008\Projects\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Debug\OnlineShop.Operational.dll.config
+D:\MyJob\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Debug\OnlineShop.Operational.dll.config
+D:\MyJob\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Debug\OnlineShop.Operational.dll
+D:\MyJob\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Debug\OnlineShop.Operational.pdb
+D:\MyJob\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Debug\ResolveAssemblyReference.cache
+D:\MyJob\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Debug\OnlineShop.Operational.dll
+D:\MyJob\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Debug\OnlineShop.Operational.pdb
+E:\MyJob\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Debug\OnlineShop.Operational.dll.config
+E:\MyJob\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Debug\OnlineShop.Operational.dll
+E:\MyJob\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Debug\OnlineShop.Operational.pdb
+E:\MyJob\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Debug\ResolveAssemblyReference.cache
+E:\MyJob\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Debug\OnlineShop.Operational.dll
+E:\MyJob\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Debug\OnlineShop.Operational.pdb
+E:\My Job\Projects\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Debug\ResolveAssemblyReference.cache
+E:\My Job\Projects\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Debug\OnlineShop.Operational.dll
+E:\My Job\Projects\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Debug\OnlineShop.Operational.dll.config
+E:\My Job\Projects\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Debug\OnlineShop.Operational.dll
+E:\My Job\Projects\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Debug\OnlineShop.Operational.pdb
+E:\My Job\Projects\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Debug\OnlineShop.Operational.pdb
+H:\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Debug\OnlineShop.Operational.dll.config
+H:\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Debug\OnlineShop.Operational.dll
+H:\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Debug\OnlineShop.Operational.pdb
+H:\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Debug\ResolveAssemblyReference.cache
+H:\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Debug\OnlineShop.Operational.dll
+H:\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Debug\OnlineShop.Operational.pdb
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Debug\OnlineShop.Operational.dll.config
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Debug\OnlineShop.Operational.dll
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Debug\OnlineShop.Operational.pdb
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Debug\OnlineShop.Operational.dll
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Debug\OnlineShop.Operational.pdb
+E:\My Documents\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Debug\OnlineShop.Operational.dll.config
+E:\My Documents\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Debug\OnlineShop.Operational.dll
+E:\My Documents\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Operational\bin\Debug\OnlineShop.Operational.pdb
+E:\My Documents\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Debug\ResolveAssemblyReference.cache
+E:\My Documents\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Debug\OnlineShop.Operational.dll
+E:\My Documents\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Operational\obj\Debug\OnlineShop.Operational.pdb

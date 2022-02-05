@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/MovingMessageInfo.ascx" hash="36117edd1" filehash="bd89174b8220366c" flags="100000" assembly="App_Web_4v3ktltc" type="ASP.admin_modules_movingmessageinfo_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/MovingMessageInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/MovingMessageInfo.ascx.cs" />
+    </filedeps>
+</preserve>

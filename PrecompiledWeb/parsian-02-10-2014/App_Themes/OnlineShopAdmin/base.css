@@ -1,0 +1,421 @@
+﻿.foo
+{
+}
+body
+{
+	font-family: arial, verdana, helvetica, sans-serif;
+	font-size:15px;
+	background-color:#EDEDED;
+	margin: 0px;
+	
+}
+
+td.header_area
+{
+	width:100%;	
+	
+}
+td.above_header
+{
+	width:100%;	
+	color: #CCCCCC;
+	padding: 0px;
+	text-align: center;
+	height:20px;
+	font-size:large;
+	background-image:url(Images/below_header_bg.jpg);
+	
+}
+td.below_header
+{
+	width:100%;	
+	color: #CCCCCC;
+	padding: 0px;
+	text-align: center;
+	
+	height:20px;
+	background-image:url(Images/below_header_bg.jpg);
+}
+td.menu_area
+{
+	width:100%;	
+	text-align:center;
+	vertical-align:middle;
+	line-height: 29px;
+	height:32px;
+	border:2px solid black;
+	background: url('Images/admin-menu-bg.gif') repeat-x;
+}
+td.content_area
+{
+	width:100%;	
+	background-image:url(Images/bg_content.jpg);
+	background-repeat: repeat;
+	text-align:right;
+}
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+	SECTION HEADERS
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+.section-title
+{
+	
+	padding-bottom: 1px;
+	padding-right:10px;
+	margin-bottom: 10px;
+	
+	color: #009FFF;
+	font-size: medium;
+	font-weight: bold;
+	vertical-align: bottom;
+	text-align:right;
+}
+
+.section-title img
+{
+	vertical-align: middle;
+	padding-bottom: 2px;
+}
+.section-header
+{
+	border-bottom: solid 3px #dfdfdf;
+	padding-bottom: 1px;
+	padding-top:5px;
+	padding-left:10px;
+	padding-right:10px;
+	margin-bottom: 10px;
+	height: 25px;
+}
+
+.section-header .title a
+{
+	text-decoration: none;
+	font-size:11px;
+	color: #555;
+}
+
+.section-header .title
+{
+	float: right;
+	/*color: #009FFF;*/
+	color:#333;
+	font-size: large;
+	font-weight: bold;
+	vertical-align: bottom;
+	padding-top: 5px;
+	text-align:right;
+}
+
+.section-header .title img
+{
+	vertical-align: middle;
+	padding-bottom: 2px;
+}
+
+.section-header .options
+{
+	vertical-align:bottom;
+	text-align: left;
+	float: left;
+	
+}
+/*---------------------------------------*/
+.button
+{
+	border: 1px outset #333;	
+		
+	background: url(Images/grey_button_bg.gif) no-repeat 25% 50% #333;
+	font-size:medium;
+	font-weight: bold; 
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;	
+	height: 25px;
+	vertical-align:top;
+	padding: 0 10px 0 10px;
+	text-align:center;
+	margin-bottom: 3px;
+	
+	
+}
+.adminInput
+{
+	vertical-align:top;
+	border: 1px solid #000000;
+	background-color: #e3e3e3; 
+	font-size:15px;
+	font-weight: bold; 	
+	text-align:right;	
+	font-family: Arial, Helvetica, sans-serif;
+	width: 250px;
+}
+
+.adminInputNoWidth
+{
+	vertical-align:top;
+	border: 1px solid #000000;
+	background-color: #e3e3e3; 
+	font-size:15px;
+	font-weight: bold; 	
+	text-align:right;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.hyperLinkBack
+{
+	font-weight:bold;
+	 Font-Size:15px ;
+	 color:#009FFF;
+}
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+	TABLES
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+td
+{
+	vertical-align: middle;
+}
+
+td.fieldname
+{
+	font-size: 12px;
+}
+
+.TableContainer
+{
+}
+
+.TableContainer .Row
+{
+}
+
+.TableContainer .Row .ItemName
+{
+	padding: 3px 10px 0px 0px;
+	display: block;
+	white-space: nowrap;
+	padding-right: 10px;
+	vertical-align: middle;
+}
+
+.TableContainer .Row .ItemValue
+{
+	padding: 3px 0px 0px 0px;
+	vertical-align: middle;
+}
+
+table.adminContent
+{
+	border-collapse: collapse;
+	color: #333;
+	font-size: medium;
+	font-weight:bold;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0px;
+	width: 100%;
+	vertical-align: middle;
+	text-align: right;
+	
+}
+
+table.adminContent td
+{
+	padding: 4px 4px 4px 4px;
+}
+
+tr.adminGroup td
+{
+	border-top: solid 1px #d3d3d3;
+	padding-top: 10px;
+	margin-top: 10px;
+}
+
+td.adminTitle
+{
+	text-align: right;
+	vertical-align: middle;
+	width: 175px;
+}
+
+td.adminTitle img
+{
+	vertical-align: middle;
+	padding-right: 2px;
+}
+
+td.adminData
+{
+	text-align: right	;
+	vertical-align: middle;
+}
+td.popup
+{	
+	text-align:center;
+	font-size:medium;
+	font-weight:bold;
+	font-family:"Helvetica Neue" , Arial, Sans-Serif;
+}
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+	TAB CONTROL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+.grey .ajax__tab_header
+{
+	font-family: "Helvetica Neue" , Arial, Sans-Serif;
+	background: url(Images/tab-line.png) repeat-x bottom;
+	font-size: medium;
+	font-weight:bold;
+	display: block;
+}
+
+.grey .ajax__tab_header .ajax__tab_outer
+{
+	background: url(Images/tab.png) no-repeat left top;
+	border-color: #222;
+	color: #222;
+	padding-left: 10px;
+	margin-right: 3px;
+}
+
+.grey .ajax__tab_header .ajax__tab_inner
+{
+	background: url(Images/tab.png) no-repeat right top;
+	border-color: #666;
+	color: #666;
+	padding: 3px 10px 2px 0px;
+}
+
+.grey .ajax__tab_hover .ajax__tab_inner
+{
+	color: #000;
+}
+
+.grey .ajax__tab_active .ajax__tab_outer
+{
+	background: url(Images/tab.png) no-repeat 0pt -40px;
+	border-bottom-color: #ffffff;
+}
+
+.grey .ajax__tab_active .ajax__tab_inner
+{
+	background: url(Images/tab.png) no-repeat right -40px;
+	color: #009FFF;
+	border-color: #333;
+}
+
+.grey .ajax__tab_body
+{
+	background-color: #fff;
+	border: solid 1px #d7d7d7;
+	border-top-width: 0;
+	padding: 10px 10px 10px 10px;
+}
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+	ADMIN GRID VIEW
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+.tablestyle
+{
+	font-family: arial;
+	font-size: medium;
+	border: 1px solid #808080;
+	background-color: #FFFFFF;
+	margin-left: 0px;
+	/*color: #245D75;*/
+	color:#333;
+	width: 100%;
+}
+
+.tablestyle td a
+{
+	/*color: #D16400;*/
+	color:#009FFF;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.altrowstyle
+{
+	background-color: #F4FAFF;
+}
+
+.headerstyle th
+{
+	background: url('images/admin-gvw-bg.gif') repeat-x 50%;
+	color: #ffffff;
+	padding: 5px 10px 5px 10px;
+	text-align: center;
+	vertical-align: middle;
+	font-weight: bold;
+	border: solid 1px #676767;
+}
+
+.headerstyle th a
+{
+	font-weight: bold;
+	text-decoration: none;
+	text-align: center;
+	color: #fff;
+	display: block;
+	padding-right: 10px;
+}
+
+.rowstyle td, .altrowstyle td
+{
+	padding: 4px 10px 4px 10px;
+	border-right: solid 1px #A0C0E7;
+	border-right-color: #808080;
+	text-align:center;
+}
+
+.PagerStyle
+{
+	height: 28px;
+	background: url(Images/grid_header_back.png) repeat-x;
+	background: #EEEEEE;
+	vertical-align: middle;
+}
+/*-----------------------------------------------*/
+.validatorCalloutHighlight
+{
+	background-color: #FFFBD5;
+	float:right;
+}
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+	RATING
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+.ratingStar
+{
+	font-size: 0pt;
+	width: 13px;
+	height: 12px;
+	margin: 0px;
+	padding: 0px;
+	cursor: pointer;
+	display: block;
+	background-repeat: no-repeat;
+}
+
+.filledRatingStar
+{
+	background-image: url(Images/FilledStar.png);
+}
+
+.emptyRatingStar
+{
+	background-image: url(Images/EmptyStar.png);
+}
+
+.savedRatingStar
+{
+	background-image: url(Images/SavedStar.png);
+}

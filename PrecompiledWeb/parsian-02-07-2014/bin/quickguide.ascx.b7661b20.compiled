@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Modules/QuickGuide.ascx" hash="581ae6859" filehash="e6d96c4c80041a28" flags="100000" assembly="App_Web_o0zaytjl" type="ASP.modules_quickguide_ascx">
+    <filedeps>
+        <filedep name="/Web/Modules/QuickGuide.ascx" />
+        <filedep name="/Web/Modules/QuickGuide.ascx.cs" />
+    </filedeps>
+</preserve>

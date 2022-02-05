@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Modules/ShopCategoriesList.ascx" hash="581ae6859" filehash="fc9c239ad89c71ef" flags="100000" assembly="App_Web_gwvgdnn0" type="ASP.modules_shopcategorieslist_ascx">
+    <filedeps>
+        <filedep name="/Web/Modules/ShopCategoriesList.ascx" />
+        <filedep name="/Web/Modules/ShopCategoriesList.ascx.cs" />
+    </filedeps>
+</preserve>

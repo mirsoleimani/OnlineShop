@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Modules/ProductImageDetails.ascx" hash="581ae6859" filehash="b3e5bdf744dca635" flags="100000" assembly="App_Web_gwvgdnn0" type="ASP.modules_productimagedetails_ascx">
+    <filedeps>
+        <filedep name="/Web/Modules/ProductImageDetails.ascx" />
+        <filedep name="/Web/Modules/ProductImageDetails.ascx.cs" />
+    </filedeps>
+</preserve>

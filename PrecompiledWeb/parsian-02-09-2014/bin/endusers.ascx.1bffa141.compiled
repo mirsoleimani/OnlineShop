@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/EndUsers.ascx" hash="5bf7dff5c" filehash="b727cc660e6fe652" flags="100000" assembly="App_Web_ub4nezah" type="ASP.admin_modules_endusers_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/EndUsers.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUsers.ascx.cs" />
+    </filedeps>
+</preserve>

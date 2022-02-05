@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Modules/ShopDetails.ascx" hash="35fc47ad4" filehash="91088737f9454183" flags="100000" assembly="App_Web_xobh4dx3" type="ASP.modules_shopdetails_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/ShopRating.ascx" />
+        <filedep name="/Web/Admin/Modules/ShopRating.ascx.cs" />
+        <filedep name="/Web/Modules/ShopDetails.ascx" />
+        <filedep name="/Web/Modules/ShopDetails.ascx.cs" />
+    </filedeps>
+</preserve>

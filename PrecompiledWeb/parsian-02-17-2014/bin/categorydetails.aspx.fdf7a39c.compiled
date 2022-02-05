@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/CategoryDetails.aspx" hash="5bf7dff5c" filehash="94ee8f69c805fd94" flags="100000" assembly="App_Web_w0zlavq5" type="ASP.admin_categorydetails_aspx">
+    <filedeps>
+        <filedep name="/Web/Admin/AdminMasterPage.master" />
+        <filedep name="/Web/Admin/AdminMasterPage.master.cs" />
+        <filedep name="/Web/Admin/CategoryDetails.aspx" />
+        <filedep name="/Web/Admin/CategoryDetails.aspx.cs" />
+        <filedep name="/Web/Admin/Modules/CategoryDetails.ascx" />
+        <filedep name="/Web/Admin/Modules/CategoryDetails.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/CategoryInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/CategoryInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/CategoryShops.ascx" />
+        <filedep name="/Web/Admin/Modules/CategoryShops.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx.cs" />
+        <filedep name="/Web/Modules/EndUserLoginView.ascx" />
+        <filedep name="/Web/Modules/EndUserLoginView.ascx.cs" />
+    </filedeps>
+</preserve>

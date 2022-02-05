@@ -1,0 +1,86 @@
+﻿/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+	HOME PAGE CATEGORIES - DONE
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+.HomePageCategoryGrid
+{
+	text-align: justify;
+	font-family:Tahoma;
+	padding:5px 0px 5px 0px;
+	width:100%;
+
+	
+			
+}
+
+.HomePageCategoryGrid a
+{
+	color: #333;
+}
+
+.HomePageCategoryGrid .ItemBox
+{
+	text-align: center;
+	vertical-align:top;	
+	padding:10px 0px 10px 0px;	
+	font-family:Tahoma;	
+	
+	
+	
+}
+
+.HomePageCategoryGrid .HomePageCategoryItem
+{
+	text-align: center;
+	vertical-align:top;
+	width:253px;
+	height:150px;
+	background: url('Images/cat-bg.gif') no-repeat 0 0;
+	background-position:right;
+	border-left:solid 1px silver;
+	border-bottom:solid 1px silver;
+	margin-top:0px;
+	margin-left:4px;
+	margin-right:4px;
+
+	
+	
+}
+
+.HomePageCategoryGrid .HomePageCategoryItem .title
+{
+	text-align: center;	
+	vertical-align:middle;
+	font-size: 10pt;
+	height:2.3em;
+	padding: 0px 5px 0px 0px;
+	overflow: hidden hidden;
+	background: url('Images/cat-title.gif') no-repeat 100% 100%;
+	background-position:top;
+	width:150px;
+}
+
+.HomePageCategoryGrid .HomePageCategoryItem .description
+{
+		
+	text-align: justify;	
+	vertical-align:text-top;
+	padding: 0px 5px 5px 5px;
+	direction:rtl;
+	color: #555;
+	
+	font-size:9pt;
+}
+
+.HomePageCategoryGrid .HomePageCategoryItem .image
+{
+	text-align:right;
+	vertical-align:top;
+	width:100px;
+	background-color:White;
+	border-right:solid 0px silver;
+
+	
+}

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Modules/ShopAdvancedContactSearchBox.ascx" hash="581ae6859" filehash="f16e8a0081e80d72" flags="100000" assembly="App_Web_o0zaytjl" type="ASP.modules_shopadvancedcontactsearchbox_ascx">
+    <filedeps>
+        <filedep name="/Web/Modules/ShopAdvancedContactSearchBox.ascx" />
+        <filedep name="/Web/Modules/ShopAdvancedContactSearchBox.ascx.cs" />
+    </filedeps>
+</preserve>

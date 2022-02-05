@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/EndUserAdd.ascx" hash="5bf7dff5c" filehash="3faf4b7970197922" flags="100000" assembly="App_Web_hby1tspc" type="ASP.admin_modules_enduseradd_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/EmailTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/EmailTextBox.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/EndUserAdd.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUserAdd.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/EndUserRegisterInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUserRegisterInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/PersianCalendar.ascx" />
+        <filedep name="/Web/Admin/Modules/PersianCalendar.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx.cs" />
+    </filedeps>
+</preserve>

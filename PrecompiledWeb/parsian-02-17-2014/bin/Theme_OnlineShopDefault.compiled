@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/App_Themes/OnlineShopDefault/" hash="581ae6859" filehash="5326b8d8356c3f22" flags="110000" assembly="App_Theme_OnlineShopDefault" type="ASP.OnlineShopDefault">
+    <filedeps>
+        <filedep name="/Web/App_Themes/OnlineShopDefault/" />
+    </filedeps>
+</preserve>

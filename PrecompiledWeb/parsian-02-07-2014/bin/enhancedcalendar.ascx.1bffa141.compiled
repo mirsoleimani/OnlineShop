@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/EnhancedCalendar.ascx" hash="5bf7dff5c" filehash="9f90f53f0b6a77a0" flags="100000" assembly="App_Web_gl0i1ghh" type="ASP.admin_modules_enhancedcalendar_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/EnhancedCalendar.ascx" />
+        <filedep name="/Web/Admin/Modules/EnhancedCalendar.ascx.cs" />
+    </filedeps>
+</preserve>

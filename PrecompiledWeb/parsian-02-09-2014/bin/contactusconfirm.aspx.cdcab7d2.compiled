@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/ContactUsConfirm.aspx" hash="581ae6859" filehash="dc342f0cd85ef0ef" flags="100000" assembly="App_Web_nqrvq5i3" type="ASP.contactusconfirm_aspx">
+    <filedeps>
+        <filedep name="/Web/ContactUsConfirm.aspx" />
+        <filedep name="/Web/ContactUsConfirm.aspx.cs" />
+        <filedep name="/Web/GeneralMasterPage.master" />
+        <filedep name="/Web/GeneralMasterPage.master.cs" />
+        <filedep name="/Web/Modules/ProductSearchBox.ascx" />
+        <filedep name="/Web/Modules/ProductSearchBox.ascx.cs" />
+        <filedep name="/Web/Modules/QuickGuide.ascx" />
+        <filedep name="/Web/Modules/QuickGuide.ascx.cs" />
+        <filedep name="/Web/Modules/SearchBox.ascx" />
+        <filedep name="/Web/Modules/SearchBox.ascx.cs" />
+        <filedep name="/Web/Modules/ShopCategoriesBottomList.ascx" />
+        <filedep name="/Web/Modules/ShopCategoriesBottomList.ascx.cs" />
+        <filedep name="/Web/Modules/ShopQuickAccess.ascx" />
+        <filedep name="/Web/Modules/ShopQuickAccess.ascx.cs" />
+        <filedep name="/Web/Modules/ShopSearchBox.ascx" />
+        <filedep name="/Web/Modules/ShopSearchBox.ascx.cs" />
+        <filedep name="/Web/Modules/Topic.ascx" />
+        <filedep name="/Web/Modules/Topic.ascx.cs" />
+    </filedeps>
+</preserve>

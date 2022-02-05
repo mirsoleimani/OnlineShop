@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Modules/ProductSearchBox.ascx" hash="581ae6859" filehash="731a68541aa5d549" flags="100000" assembly="App_Web_3ouxzsr3" type="ASP.modules_productsearchbox_ascx">
+    <filedeps>
+        <filedep name="/Web/Modules/ProductSearchBox.ascx" />
+        <filedep name="/Web/Modules/ProductSearchBox.ascx.cs" />
+    </filedeps>
+</preserve>

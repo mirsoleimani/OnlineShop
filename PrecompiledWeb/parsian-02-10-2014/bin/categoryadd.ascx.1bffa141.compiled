@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/CategoryAdd.ascx" hash="5bf7dff5c" filehash="7ba7a71c607256a6" flags="100000" assembly="App_Web_hby1tspc" type="ASP.admin_modules_categoryadd_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/CategoryAdd.ascx" />
+        <filedep name="/Web/Admin/Modules/CategoryAdd.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/CategoryInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/CategoryInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx.cs" />
+    </filedeps>
+</preserve>

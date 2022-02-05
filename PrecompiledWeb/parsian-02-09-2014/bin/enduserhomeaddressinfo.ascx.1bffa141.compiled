@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/EndUserHomeAddressInfo.ascx" hash="5bf7dff5c" filehash="ec4e70705c06124f" flags="100000" assembly="App_Web_41wossfj" type="ASP.admin_modules_enduserhomeaddressinfo_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/EndUserHomeAddressInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUserHomeAddressInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx.cs" />
+    </filedeps>
+</preserve>

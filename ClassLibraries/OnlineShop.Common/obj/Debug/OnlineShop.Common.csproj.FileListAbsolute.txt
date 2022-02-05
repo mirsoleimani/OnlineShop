@@ -1,0 +1,41 @@
+C:\Documents and Settings\S.Ali mirsoleimani\My Documents\Visual Studio 2008\Projects\OnlineShop\ClassLibraries\OnlineShop.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\S.Ali mirsoleimani\My Documents\Visual Studio 2008\Projects\OnlineShop\ClassLibraries\OnlineShop.Common\bin\Debug\OnlineShop.Common.dll
+C:\Documents and Settings\S.Ali mirsoleimani\My Documents\Visual Studio 2008\Projects\OnlineShop\ClassLibraries\OnlineShop.Common\bin\Debug\OnlineShop.Common.pdb
+C:\Documents and Settings\S.Ali mirsoleimani\My Documents\Visual Studio 2008\Projects\OnlineShop\ClassLibraries\OnlineShop.Common\obj\Debug\OnlineShop.Common.dll
+C:\Documents and Settings\S.Ali mirsoleimani\My Documents\Visual Studio 2008\Projects\OnlineShop\ClassLibraries\OnlineShop.Common\obj\Debug\OnlineShop.Common.pdb
+D:\MyJob\OnlineShop\ClassLibraries\OnlineShop.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\MyJob\OnlineShop\ClassLibraries\OnlineShop.Common\obj\Debug\OnlineShop.Common.dll
+D:\MyJob\OnlineShop\ClassLibraries\OnlineShop.Common\obj\Debug\OnlineShop.Common.pdb
+D:\MyJob\OnlineShop\ClassLibraries\OnlineShop.Common\bin\Debug\OnlineShop.Common.dll
+D:\MyJob\OnlineShop\ClassLibraries\OnlineShop.Common\bin\Debug\OnlineShop.Common.pdb
+D:\MyJob\OnlineShop\ClassLibraries\OnlineShop.Common\bin\Debug\OnlineShop.Common.dll.config
+E:\MyJob\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Common\bin\Debug\OnlineShop.Common.dll.config
+E:\MyJob\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Common\bin\Debug\OnlineShop.Common.dll
+E:\MyJob\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Common\bin\Debug\OnlineShop.Common.pdb
+E:\MyJob\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\MyJob\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Common\obj\Debug\OnlineShop.Common.dll
+E:\MyJob\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Common\obj\Debug\OnlineShop.Common.pdb
+E:\My Job\Projects\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Common\bin\Debug\OnlineShop.Common.dll.config
+E:\My Job\Projects\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Common\bin\Debug\OnlineShop.Common.dll
+E:\My Job\Projects\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Common\bin\Debug\OnlineShop.Common.pdb
+E:\My Job\Projects\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\My Job\Projects\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Common\obj\Debug\OnlineShop.Common.dll
+E:\My Job\Projects\KATAJ\OnlineShop\ClassLibraries\OnlineShop.Common\obj\Debug\OnlineShop.Common.pdb
+H:\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Common\bin\Debug\OnlineShop.Common.dll.config
+H:\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Common\bin\Debug\OnlineShop.Common.dll
+H:\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Common\bin\Debug\OnlineShop.Common.pdb
+H:\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Common\obj\Debug\ResolveAssemblyReference.cache
+H:\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Common\obj\Debug\OnlineShop.Common.dll
+H:\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Common\obj\Debug\OnlineShop.Common.pdb
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.Common\bin\Debug\OnlineShop.Common.dll.config
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.Common\bin\Debug\OnlineShop.Common.dll
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.Common\bin\Debug\OnlineShop.Common.pdb
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.Common\obj\Debug\OnlineShop.Common.dll
+C:\Documents and Settings\SAM\Desktop\OnlineShop\ClassLibraries\OnlineShop.Common\obj\Debug\OnlineShop.Common.pdb
+E:\My Documents\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Common\bin\Debug\OnlineShop.Common.dll.config
+E:\My Documents\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Common\bin\Debug\OnlineShop.Common.dll
+E:\My Documents\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Common\bin\Debug\OnlineShop.Common.pdb
+E:\My Documents\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\My Documents\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Common\obj\Debug\OnlineShop.Common.dll
+E:\My Documents\My Job\Projects\OnlineShop\ClassLibraries\OnlineShop.Common\obj\Debug\OnlineShop.Common.pdb

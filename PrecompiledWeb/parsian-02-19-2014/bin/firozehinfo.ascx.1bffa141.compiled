@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/FirozehInfo.ascx" hash="36117edd1" filehash="c87ccc0aca888be1" flags="100000" assembly="App_Web_4v3ktltc" type="ASP.admin_modules_firozehinfo_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/FirozehInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/FirozehInfo.ascx.cs" />
+    </filedeps>
+</preserve>

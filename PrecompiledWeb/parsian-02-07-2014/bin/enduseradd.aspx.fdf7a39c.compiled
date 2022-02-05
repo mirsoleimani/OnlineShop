@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/EndUserAdd.aspx" hash="5bf7dff5c" filehash="a19056e4ad22c7a0" flags="100000" assembly="App_Web_hht00ez3" type="ASP.admin_enduseradd_aspx">
+    <filedeps>
+        <filedep name="/Web/Admin/AdminMasterPage.master" />
+        <filedep name="/Web/Admin/AdminMasterPage.master.cs" />
+        <filedep name="/Web/Admin/EndUserAdd.aspx" />
+        <filedep name="/Web/Admin/EndUserAdd.aspx.cs" />
+        <filedep name="/Web/Admin/Modules/EmailTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/EmailTextBox.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/EndUserAdd.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUserAdd.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/EndUserRegisterInfo.ascx" />
+        <filedep name="/Web/Admin/Modules/EndUserRegisterInfo.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/PersianCalendar.ascx" />
+        <filedep name="/Web/Admin/Modules/PersianCalendar.ascx.cs" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx.cs" />
+        <filedep name="/Web/Modules/EndUserLoginView.ascx" />
+        <filedep name="/Web/Modules/EndUserLoginView.ascx.cs" />
+    </filedeps>
+</preserve>

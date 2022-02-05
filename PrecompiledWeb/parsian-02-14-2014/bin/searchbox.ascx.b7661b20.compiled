@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Modules/SearchBox.ascx" hash="581ae6859" filehash="6bfda2acb0c0cfa" flags="100000" assembly="App_Web_kmano0ol" type="ASP.modules_searchbox_ascx">
+    <filedeps>
+        <filedep name="/Web/Modules/ProductSearchBox.ascx" />
+        <filedep name="/Web/Modules/ProductSearchBox.ascx.cs" />
+        <filedep name="/Web/Modules/SearchBox.ascx" />
+        <filedep name="/Web/Modules/SearchBox.ascx.cs" />
+        <filedep name="/Web/Modules/ShopSearchBox.ascx" />
+        <filedep name="/Web/Modules/ShopSearchBox.ascx.cs" />
+    </filedeps>
+</preserve>

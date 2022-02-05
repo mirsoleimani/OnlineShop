@@ -1,0 +1,82 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="AdminMasterPage.master.cs"
+    Inherits="Admin_AdminMasterPage" %>
+
+<%@ Register Src="../Modules/EndUserLoginView.ascx" TagName="EndUserLoginView" TagPrefix="uc1" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+          <ajaxToolkit:ToolkitScriptManager runat="Server" ID="ToolkitScriptManager1" />
+<%--    <asp:ScriptManager ID="ScriptManager1" runat="server" EnablePartialRendering="True">
+    </asp:ScriptManager>--%>
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+            <td class="above_header">
+                <strong>مديريت سايت</strong>
+            </td>
+        </tr>
+        <tr>
+            <td class="menu_area" align="center" dir="rtl">
+            <table border="0" cellspacing="0" cellpadding="0" width="100%">
+            	<tr>
+            		<td align="center">
+            		 <asp:Menu ID="mnuAdmin" runat="server" Orientation="Horizontal" DataSourceID="smdsadmin"
+                    OnMenuItemDataBound="mnuAdmin_MenuItemDataBound" DynamicHorizontalOffset="2"
+                    Width="50%" Font-Names="Arial" Font-Size="12pt" Font-Bold="true" StaticEnableDefaultPopOutImage="false"
+                    ForeColor="White" StaticSubMenuIndent="10px">
+                    <StaticSelectedStyle ForeColor="DarkGray" />
+                    <StaticMenuItemStyle HorizontalPadding="10px" ItemSpacing="20px" />
+                    <StaticHoverStyle ForeColor="DarkGray" />
+                    <DynamicHoverStyle BackColor="" ForeColor="Gray" />
+                    <DynamicMenuStyle BackColor="#CCCCCC" ForeColor="#333" />
+                    <DynamicSelectedStyle BackColor="White" />
+                    <DynamicMenuItemStyle HorizontalPadding="30px" VerticalPadding="0px" ForeColor="Black"
+                        BorderWidth="1px" BorderStyle="Outset" BorderColor="Black" />
+                </asp:Menu>
+                <asp:SiteMapDataSource ID="smdsadmin" runat="server" SiteMapProvider="AdminXmlSiteMapProvider"
+                    ShowStartingNode="false" />
+            		</td>
+            	</tr>
+            </table>
+               
+            </td>
+        </tr>
+        <tr>
+            <td class="below_header">
+                <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                    <tr>
+                        <td align=center>
+                       
+                            <uc1:EndUserLoginView ID="EndUserLoginView1" runat="server" />
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td class="menu_area">
+                <asp:SiteMapPath ID="SiteMapPathAdmin" runat="server" Font-Names="Arial" 
+                    Font-Size="1em" PathSeparator=" > " PathDirection="RootToCurrent">
+                    <PathSeparatorStyle Font-Bold="True" ForeColor="#5D7B9D" />
+                    <CurrentNodeStyle ForeColor="#ffffff" />
+                    <NodeStyle Font-Bold="True" ForeColor="#ffffff" />
+                    <RootNodeStyle Font-Bold="True" ForeColor="#5D7B9D" />
+                </asp:SiteMapPath>
+            </td>
+        </tr>
+        <tr>
+            <td class="content_area">
+                <asp:ContentPlaceHolder ID="contentplaceholderAdmin" runat="server">
+                    &nbsp;
+                </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+    </table>
+    </form>
+</body>
+</html>

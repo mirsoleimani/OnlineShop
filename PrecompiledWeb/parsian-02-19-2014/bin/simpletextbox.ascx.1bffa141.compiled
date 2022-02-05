@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Admin/Modules/SimpleTextBox.ascx" hash="36117edd1" filehash="861ce78b9fcd1eef" flags="100000" assembly="App_Web_4v3ktltc" type="ASP.admin_modules_simpletextbox_ascx">
+    <filedeps>
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx" />
+        <filedep name="/Web/Admin/Modules/SimpleTextBox.ascx.cs" />
+    </filedeps>
+</preserve>

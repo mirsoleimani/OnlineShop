@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Web/Modules/EndUserLoginView.ascx" hash="581ae6859" filehash="87e5bbdac9aaf61c" flags="100000" assembly="App_Web_gwvgdnn0" type="ASP.modules_enduserloginview_ascx">
+    <filedeps>
+        <filedep name="/Web/Modules/EndUserLoginView.ascx" />
+        <filedep name="/Web/Modules/EndUserLoginView.ascx.cs" />
+    </filedeps>
+</preserve>
